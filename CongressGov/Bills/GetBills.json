@@ -1,0 +1,28 @@
+{
+  "bills": [
+    {
+      "congress": 118,
+      "latestAction": {
+        "actionDate": "2024-04-11",
+        "actionTime": "17:01:10",
+        "text": "Motion to reconsider laid on the table Agreed to without objection."
+      },
+      "number": "2560",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Sea Turtle Rescue Assistance and Rehabilitation Act of 2023",
+      "type": "HR",
+      "updateDate": "2024-04-13",
+      "updateDateIncludingText": "2024-04-13T02:20:17Z",
+      "url": "https://api.congress.gov/v3/bill/118/hr/2560?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 405353,
+    "next": "https://api.congress.gov/v3/bill?offset=10&limit=10&format=json"
+  },
+  "request": {
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

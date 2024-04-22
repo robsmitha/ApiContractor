@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <AdditionalFiles Include="Bills\GetBill.json" />
+    <AdditionalFiles Include="Bills\GetBillActions.json" />
+    <AdditionalFiles Include="Bills\GetBillAmendments.json" />
+    <AdditionalFiles Include="Bills\GetBillCommittees.json" />
+    <AdditionalFiles Include="Bills\GetBills.json" />
+    <AdditionalFiles Include="Bills\GetBillsByCongress.json" />
+    <AdditionalFiles Include="Bills\GetBillsByType.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CongressGov.CodeGeneration\CongressGov.CodeGeneration.csproj" OutputItemType="Analyzer" ReferenceOutputAssembly="false" />
+  </ItemGroup>
+
+</Project>

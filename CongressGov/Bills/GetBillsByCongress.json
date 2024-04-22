@@ -1,0 +1,29 @@
+{
+  "bills": [
+    {
+      "congress": 118,
+      "latestAction": {
+        "actionDate": "2024-04-11",
+        "actionTime": "17:02:16",
+        "text": "Motion to reconsider laid on the table Agreed to without objection."
+      },
+      "number": "6011",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "ROWATA Act",
+      "type": "HR",
+      "updateDate": "2024-04-13",
+      "updateDateIncludingText": "2024-04-13T02:38:12Z",
+      "url": "https://api.congress.gov/v3/bill/118/hr/6011?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 14185,
+    "next": "https://api.congress.gov/v3/bill/118?offset=20&amp;limit=20&amp;format=json"
+  },
+  "request": {
+    "congress": "118",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

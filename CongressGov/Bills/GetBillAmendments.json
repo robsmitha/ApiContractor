@@ -1,0 +1,17 @@
+{
+  "amendments": [
+    {
+      "congress": 117,
+      "description": "An amendment numbered 1 printed in House Report 117-243 to clarifiy the roles and responsibilities of the Office of Personnel Management, the Social Security Administration, and the Centers for Medicare &amp; Medicaid Services regarding the information postal employees will need to enroll in Medicare Part B; specify that performance standards must be submitted to the Postal Regulatory Commission for each product; and make other technical and conforming changes to the bill.",
+      "latestAction": {
+        "actionDate": "2022-02-08",
+        "actionTime": "15:39:53",
+        "text": "On agreeing to the Maloney, Carolyn B. amendment (A002) Agreed to by voice vote. "
+      },
+      "number": "173",
+      "type": "HAMDT",
+      "updateDate": "2022-02-18T16:38:41Z",
+      "url": "https://api.congress.gov/v3/amendment/117/hamdt/173?format=json"
+    }
+  ]
+}
