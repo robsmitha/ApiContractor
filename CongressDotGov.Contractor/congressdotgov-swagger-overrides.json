@@ -1,0 +1,41 @@
+{
+  "Amendmentcongress": {
+    "operationId": "AmendmentListByCongress",
+    "congress": "117"
+  },
+  "Amendmentlist": {
+    "operationId": "AmendmentList",
+    "congress": "118",
+    "amendmentType": "hamdt"
+  },
+  "Amendmentdetails": {
+    "operationId": "AmendmentDetails",
+    "congress": "118",
+    "amendmentType": "hamdt",
+    "amendmentNumber": 878
+  },
+  "Amendmentactions": {
+    "operationId": "AmendmentActions",
+    "congress": "118",
+    "amendmentType": "hamdt",
+    "amendmentNumber": 878
+  },
+  "Amendmentcosponsors": {
+    "operationId": "AmendmentCosponsors",
+    "congress": "117",
+    "amendmentType": "samdt",
+    "amendmentNumber": 2137
+  },
+  "Amendmentamendments": {
+    "operationId": "AmendmentAmendments",
+    "congress": "117",
+    "amendmentType": "samdt",
+    "amendmentNumber": 2137
+  },
+  "amendmentsText": {
+    "operationId": "AmendmentText",
+    "congress": "117",
+    "amendmentType": "samdt",
+    "amendmentNumber": 2137
+  }
+}

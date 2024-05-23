@@ -1,0 +1,45 @@
+{
+  "congress": {
+    "endYear": "2022",
+    "name": "117th Congress",
+    "number": 117,
+    "sessions": [
+      {
+        "chamber": "House of Representatives",
+        "endDate": "2022-01-03",
+        "number": 1,
+        "startDate": "2021-01-03",
+        "type": "R"
+      },
+      {
+        "chamber": "Senate",
+        "endDate": "2022-01-03",
+        "number": 1,
+        "startDate": "2021-01-03",
+        "type": "R"
+      },
+      {
+        "chamber": "House of Representatives",
+        "endDate": "2023-01-03",
+        "number": 2,
+        "startDate": "2022-01-03",
+        "type": "R"
+      },
+      {
+        "chamber": "Senate",
+        "endDate": "2023-01-03",
+        "number": 2,
+        "startDate": "2022-01-03",
+        "type": "R"
+      }
+    ],
+    "startYear": "2021",
+    "updateDate": "2021-01-12T20:05:52Z",
+    "url": "https://api.congress.gov/v3/congress/117?format=json"
+  },
+  "request": {
+    "congress": "117",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "ApiContractor.CodeGeneration.Debug": {
-      "commandName": "DebugRoslynComponent",
-      "targetProject": "..\\CongressGov\\CongressGov.csproj"
-    }
-  }
-}

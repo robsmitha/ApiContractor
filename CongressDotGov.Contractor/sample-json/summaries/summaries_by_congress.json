@@ -1,0 +1,32 @@
+{
+  "pagination": {
+    "count": 5
+  },
+  "request": {
+    "congress": "118",
+    "contentType": "application/json",
+    "format": "json"
+  },
+  "summaries": [
+    {
+      "actionDate": "2024-03-07",
+      "actionDesc": "Introduced in Senate",
+      "bill": {
+        "congress": 118,
+        "number": "3890",
+        "originChamber": "Senate",
+        "originChamberCode": "S",
+        "title": "Prohibiting Certain Off-Post Demonstrations Act of 2024",
+        "type": "S",
+        "updateDateIncludingText": "2024-04-23T20:05:01Z",
+        "url": "https://api.congress.gov/v3/bill/118/s/3890?format=json"
+      },
+      "currentChamber": "Senate",
+      "currentChamberCode": "S",
+      "lastSummaryUpdateDate": "2024-04-23T20:03:05Z",
+      "text": "<p><strong>Prohibiting Certain Off-Post Demonstrations Act of 2024</strong></p><p>This bill prohibits members of the Armed Forces from participating in off-post demonstrations under certain circumstances. The bill makes violations of the prohibition&nbsp;punishable under the Uniform Code of Military Justice.</p><p>Under the bill, members are prohibited from participating in off-post demonstrations when</p><ul><li>they are on-duty,</li><li>they are in a foreign country,</li><li>the activities constitute a breach of law and order,</li><li>violence is likely to result,</li><li>they are in uniform against regulations,</li><li>the demonstration is against U.S. military action,</li><li>the demonstration is against U.S. support of a U.S. ally at war, or</li><li>the demonstration is outside of the embassy of the United States or a U.S. ally.</li></ul><!--tinycomments|2.1|data:application/json;base64,eyJtY2UtY29udmVyc2F0aW9uXzg0MDA3NTAxMjIxNzEzOTAxNjg4NzA2Ijp7InVpZCI6Im1jZS1jb252ZXJzYXRpb25fODQwMDc1MDEyMjE3MTM5MDE2ODg3MDYiLCJjb21tZW50cyI6W3sidWlkIjoibWNlLWNvbnZlcnNhdGlvbl84NDAwNzUwMTIyMTcxMzkwMTY4ODcwNiIsImF1dGhvciI6InNmcmFuY2lzQGxpYi5sb2MuZ292IiwiYXV0aG9yTmFtZSI6InNmcmFuY2lzQGxpYi5sb2MuZ292IiwiY29udGVudCI6InJldmlzZWQgdG8gY2xhcmlmeSB0aGF0IHRoZSBiaWxsIG1ha2VzIHRoZSB2aW9sYXRpb25zIHB1bmlzaGFibGUiLCJjcmVhdGVkQXQiOiIyMDI0LTA0LTIzVDE5OjQ4OjA4LjcwNloiLCJtb2RpZmllZEF0IjoiMjAyNC0wNC0yM1QxOTo0ODowOC43MDZaIn1dfX0=-->",
+      "updateDate": "2024-04-23T20:05:01Z",
+      "versionCode": "00"
+    }
+  ]
+}

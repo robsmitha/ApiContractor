@@ -1,0 +1,23 @@
+{
+  "pagination": {
+    "count": 14
+  },
+  "request": {
+    "billNumber": "3076",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/117/hr/3076?format=json",
+    "congress": "117",
+    "contentType": "application/json",
+    "format": "json"
+  },
+  "titles": [
+    {
+      "billTextVersionCode": "RH",
+      "billTextVersionName": "Reported in House",
+      "chamberCode": "H",
+      "chamberName": "House",
+      "title": "Postal Service Reform Act of 2021",
+      "titleType": "Short Title(s) as Reported to House"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NJsonSchema" Version="11.0.0" GeneratePathProperty="true" PrivateAssets="all" />
+    <PackageReference Include="NJsonSchema.Annotations" Version="11.0.0" GeneratePathProperty="true" PrivateAssets="all" />
+    <PackageReference Include="NJsonSchema.CodeGeneration.CSharp" Version="11.0.0" GeneratePathProperty="true" PrivateAssets="all" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <Content Include="sample-json\**\**">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  
+  <ItemGroup>
+    <None Remove="sample-json\**\**" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <None Update="congressdotgov-swagger-overrides.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="congressdotgov-swagger.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

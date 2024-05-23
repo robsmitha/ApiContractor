@@ -1,0 +1,23 @@
+{
+  "pagination": {
+    "count": 17
+  },
+  "request": {
+    "billNumber": "3076",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/117/hr/3076?format=json",
+    "congress": "117",
+    "contentType": "application/json",
+    "format": "json"
+  },
+  "subjects": {
+    "legislativeSubjects": [
+      {
+        "name": "Congressional oversight"
+      }
+    ],
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    }
+  }
+}

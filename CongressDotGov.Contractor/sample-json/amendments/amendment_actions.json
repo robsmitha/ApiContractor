@@ -1,0 +1,26 @@
+{
+  "actions": [
+    {
+      "actionCode": "72000",
+      "actionDate": "2024-04-12",
+      "actionTime": "11:22:29",
+      "sourceSystem": {
+        "code": 9,
+        "name": "Library of Congress"
+      },
+      "text": "On agreeing to the Cline amendment (A003) Agreed to by voice vote.",
+      "type": "Floor"
+    }
+  ],
+  "pagination": {
+    "count": 5
+  },
+  "request": {
+    "amendmentNumber": "878",
+    "amendmentType": "hamdt",
+    "amendmentUrl": "https://api.congress.gov/v3/amendment/118/hamdt/878?format=json",
+    "congress": "118",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

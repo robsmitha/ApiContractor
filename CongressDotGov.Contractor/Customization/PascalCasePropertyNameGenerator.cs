@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace CongressGov.CodeGeneration.Customization
+namespace CongressDotGov.Contractor.Customization
 {
     public sealed class PascalCasePropertyNameGenerator : IPropertyNameGenerator
     {
@@ -47,12 +47,13 @@ namespace CongressGov.CodeGeneration.Customization
                     .Replace("#", "_")
                     .Replace("&", "And");
             }
-            
+
             name = ConvertToPascalCase(name);
 
             return name;
         }
-        private static string ConvertToPascalCase(string input)
+
+        public static string ConvertToPascalCase(string input)
         {
             var result = new StringBuilder();
             var capitalizeNext = false;
@@ -77,7 +78,13 @@ namespace CongressGov.CodeGeneration.Customization
                 }
             }
 
-            return result.ToString();
+            var str = result.ToString();
+            return UpperFirst(str);
+        }
+
+        public static string UpperFirst(string str)
+        {
+            return str.Substring(0, 1).ToUpper() + str.Substring(1);
         }
     }
 }

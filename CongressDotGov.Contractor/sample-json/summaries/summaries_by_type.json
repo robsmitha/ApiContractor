@@ -1,0 +1,33 @@
+{
+  "pagination": {
+    "count": 2
+  },
+  "request": {
+    "billType": "hr",
+    "congress": "118",
+    "contentType": "application/json",
+    "format": "json"
+  },
+  "summaries": [
+    {
+      "actionDate": "2024-01-31",
+      "actionDesc": "Introduced in House",
+      "bill": {
+        "congress": 118,
+        "number": "7163",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Improving Coordination of Agriculture Research and Data Act",
+        "type": "HR",
+        "updateDateIncludingText": "2024-04-23T16:28:56Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7163?format=json"
+      },
+      "currentChamber": "House",
+      "currentChamberCode": "H",
+      "lastSummaryUpdateDate": "2024-04-23T16:26:02Z",
+      "text": "<p><strong>Improving Coordination of Agriculture Research and Data Act</strong></p><p>This bill directs the Department of Agriculture (USDA) to establish an Agriculture Climate Scientific Research Advisory Committee and a Rural Climate Alliance Network.&nbsp;</p><p>The advisory committee,&nbsp;within USDA's Office of the Chief Scientist, must review and make recommendations on the agency's long-term and short-term national policies and priorities for (1) data collection for climate-specific agricultural research, extension, education, and economics; and (2) agricultural climate research.</p><p>The Rural Climate Alliance Network must coordinate the provision of agriculture climate research, climate data, extension, and technical assistance for agricultural producers, the food and agricultural industry, nonprofit organizations, and researchers. The bill defines an&nbsp;<em>agricultural producer </em>as an individual who is engaged in farming, ranching, forestry, aquaculture, or another occupation relating to agriculture.</p><p>USDA must also submit a report to Congress that includes a long-term strategy for responding to the challenges faced by agricultural producers that may impact agricultural producers' climate change resilience. The report must also include recommendations for further action by federal departments and agencies that are based on best practices.</p><!--tinycomments|2.1|data:application/json;base64,eyJtY2UtY29udmVyc2F0aW9uXzk5NjM2Njk1NzE3MTM4MTg2OTk5ODMiOnsidWlkIjoibWNlLWNvbnZlcnNhdGlvbl85OTYzNjY5NTcxNzEzODE4Njk5OTgzIiwiY29tbWVudHMiOlt7InVpZCI6Im1jZS1jb252ZXJzYXRpb25fOTk2MzY2OTU3MTcxMzgxODY5OTk4MyIsImF1dGhvciI6Im5jaHVyY2hpbGxAbGliLmxvYy5nb3YiLCJhdXRob3JOYW1lIjoibmNodXJjaGlsbEBsaWIubG9jLmdvdiIsImNvbnRlbnQiOiJodHRwczovL3d3dy5jbGltYXRlaHVicy51c2RhLmdvdi9hYm91dC11c1xuVGhleSBhcmUgbGVkIGFuZCBob3N0ZWQgYnkgdGhlIEFncmljdWx0dXJhbCBSZXNlYXJjaCBTZXJ2aWNlIGFuZCBGb3Jlc3QgU2VydmljZSBsb2NhdGVkIGF0IHRlbiByZWdpb25hbCBsb2NhdGlvbnMsIHdpdGggY29udHJpYnV0aW9ucyBmcm9tIG1hbnkgYWdlbmNpZXMgaW5jbHVkaW5nIHRoZSBOYXR1cmFsIFJlc291cmNlcyBDb25zZXJ2YXRpb24gU2VydmljZSwgRmFybSBTZXJ2aWNlIEFnZW5jeSwgYW5kIHRoZSBSaXNrIE1hbmFnZW1lbnQgQWdlbmN5LiBUaGUgQ2xpbWF0ZSBIdWJzIGxpbmsgVVNEQSByZXNlYXJjaCBhbmQgcHJvZ3JhbSBhZ2VuY2llcyBpbiB0aGVpciByZWdpb25hbCBkZWxpdmVyeSBvZiB0aW1lbHkgYW5kIGF1dGhvcml0YXRpdmUgdG9vbHMgYW5kIGluZm9ybWF0aW9uIHRvIGFncmljdWx0dXJhbCBwcm9kdWNlcnMgYW5kIHByb2Zlc3Npb25hbHMuIiwiY3JlYXRlZEF0IjoiMjAyNC0wNC0yMlQyMDo0NDo1OS45ODNaIiwibW9kaWZpZWRBdCI6IjIwMjQtMDQtMjJUMjA6NDU6MjAuOTczWiJ9XX0sIm1jZS1jb252ZXJzYXRpb25fNjIxMTAzMDQyMTcxMzg4ODcwOTE3MiI6eyJ1aWQiOiJtY2UtY29udmVyc2F0aW9uXzYyMTEwMzA0MjE3MTM4ODg3MDkxNzIiLCJjb21tZW50cyI6W3sidWlkIjoibWNlLWNvbnZlcnNhdGlvbl82MjExMDMwNDIxNzEzODg4NzA5MTcyIiwiYXV0aG9yIjoiY2lzZW5iZXJnQGxpYi5sb2MuZ292IiwiYXV0aG9yTmFtZSI6ImNpc2VuYmVyZ0BsaWIubG9jLmdvdiIsImNvbnRlbnQiOiJJIHJldmlzZWQgdGhlIGxhc3Qgc2VudGVuY2UgZm9yIHNwZWNpZmljaXR5LyBjbGFyaXR5LiAiLCJjcmVhdGVkQXQiOiIyMDI0LTA0LTIzVDE2OjExOjQ5LjE3MloiLCJtb2RpZmllZEF0IjoiMjAyNC0wNC0yM1QxNjoyMTo1NC43NzNaIn1dfX0=-->",
+      "updateDate": "2024-04-23T16:28:56Z",
+      "versionCode": "00"
+    }
+  ]
+}
