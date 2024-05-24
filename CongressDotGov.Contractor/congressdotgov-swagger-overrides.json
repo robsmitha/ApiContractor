@@ -37,5 +37,12 @@
     "congress": "117",
     "amendmentType": "samdt",
     "amendmentNumber": 2137
+  },
+  "bill_summaries_by_type": {
+    "congress": 118,
+    "billType": "hr"
+  },
+  "bill_summaries_by_congress": {
+    "congress": 118
   }
 }

@@ -6,25 +6,29 @@ namespace CongressDotGov.Contractor.Generators
 {
     public class FromSampleJsonResponseGenerator
     {
-        public async Task RunAsync(string bin)
+        public async Task RunAsync(string bin, string targetNamespace)
         {
-            foreach (var directoryPath in Directory.GetDirectories(Path.Combine(bin, "sample-json")))
+            foreach (var directoryPath in Directory.GetDirectories(Path.Combine(bin, "___generated___", "sample-json")))
             {
                 var directory = Path.GetFileName(directoryPath);
-                var generatedFilePath = Path.Combine(bin, "_generated", directory);
+                var generatedFilePath = Path.Combine(bin, "___generated___", "responses", directory);
                 if (!Directory.Exists(generatedFilePath))
                 {
                     Directory.CreateDirectory(generatedFilePath);
                 }
 
                 var parentNamespace = PascalCasePropertyNameGenerator.UpperFirst(directory);
+                if (!parentNamespace.Equals(targetNamespace))
+                {
+                    continue;
+                }
 
                 foreach (string file in Directory.GetFiles(directoryPath, "*.json"))
                 {
                     var name = Path.GetFileNameWithoutExtension(file);
                     var content = await File.ReadAllTextAsync(file);
 
-                    var uniqueNamespace = $"{PascalCasePropertyNameGenerator.ConvertToPascalCase(name)}Response";
+                    var uniqueNamespace = PascalCasePropertyNameGenerator.ConvertToPascalCase(name);
 
                     var jsonSchema = JsonSchema.FromSampleJson(content);
                     var generator = new CSharpGenerator(jsonSchema, new CSharpGeneratorSettings
@@ -34,9 +38,10 @@ namespace CongressDotGov.Contractor.Generators
                         GenerateOptionalPropertiesAsNullable = true,
                         PropertyNameGenerator = new PascalCasePropertyNameGenerator()
                     });
-                    var cSharpCode = generator.GenerateFile(uniqueNamespace);
+                    var responseName = $"{uniqueNamespace}Response";
+                    var cSharpCode = generator.GenerateFile(responseName);
 
-                    await File.WriteAllTextAsync(Path.Combine(generatedFilePath, $"{uniqueNamespace}.g.cs"), cSharpCode);
+                    await File.WriteAllTextAsync(Path.Combine(generatedFilePath, $"{responseName}.g.cs"), cSharpCode);
                 }
             }
         }

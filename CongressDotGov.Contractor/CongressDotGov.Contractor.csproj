@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Humanizer" Version="2.14.1" />
     <PackageReference Include="NJsonSchema" Version="11.0.0" GeneratePathProperty="true" PrivateAssets="all" />
     <PackageReference Include="NJsonSchema.Annotations" Version="11.0.0" GeneratePathProperty="true" PrivateAssets="all" />
     <PackageReference Include="NJsonSchema.CodeGeneration.CSharp" Version="11.0.0" GeneratePathProperty="true" PrivateAssets="all" />

@@ -1,12 +1,15 @@
 ﻿using CongressDotGov.Contractor.Customization;
 using CongressDotGov.Contractor.Utilities;
+using Newtonsoft.Json;
 using NJsonSchema;
 using NJsonSchema.CodeGeneration.CSharp;
+using System.IO;
 using System.Text.RegularExpressions;
+using System.Xml.Linq;
 
 namespace CongressDotGov.Contractor.Generators
 {
-    public class FromSwaggerJsonResponseGenerator
+    public class FromSwaggerJsonSampleJsonGenerator
     {
         public async Task RunAsync(string bin, string apiKey, string targetNamespace)
         {
@@ -18,7 +21,7 @@ namespace CongressDotGov.Contractor.Generators
 
             var apiMethods = await SwaggerJsonReader.ReadAsync(bin);
 
-            var generatedFilePath = Path.Combine(bin, "___generated___");
+            var generatedFilePath = Path.Combine(bin, "___generated___", "sample-json");
             if (!Directory.Exists(generatedFilePath))
             {
                 Directory.CreateDirectory(generatedFilePath);
@@ -37,7 +40,6 @@ namespace CongressDotGov.Contractor.Generators
                     continue;
                 }
 
-                var uniqueNamespace = $"{PascalCasePropertyNameGenerator.ConvertToPascalCase(method.OperationId)}Response";
                 var writeFilePath = Path.Combine(generatedFilePath, method.ParentNamespace);
                 if (!Directory.Exists(writeFilePath))
                 {
@@ -49,19 +51,11 @@ namespace CongressDotGov.Contractor.Generators
 
                 if (!endpoint.Contains("MISSING:"))
                 {
-                    var content = await httpClient.GetStringAsync("https://api.congress.gov/v3" + endpoint + "?format=json");
-
-                    var jsonSchema = JsonSchema.FromSampleJson(content);
-                    var generator = new CSharpGenerator(jsonSchema, new CSharpGeneratorSettings
-                    {
-                        Namespace = $"CapitolSharp.Congress.{PascalCasePropertyNameGenerator.ConvertToPascalCase(method.OperationId)}.{uniqueNamespace}",
-                        RequiredPropertiesMustBeDefined = true,
-                        GenerateOptionalPropertiesAsNullable = true,
-                        PropertyNameGenerator = new PascalCasePropertyNameGenerator()
-                    });
-                    var cSharpCode = generator.GenerateFile(uniqueNamespace);
-
-                    await File.WriteAllTextAsync(writeFilePath, cSharpCode);
+                    var json = await httpClient.GetStringAsync("https://api.congress.gov/v3" + endpoint + "?format=json");
+                    var responseNamespace = method.OperationId;
+                    var parsedJson = JsonConvert.DeserializeObject(json);
+                    await File.WriteAllTextAsync(Path.Combine(writeFilePath, $"{responseNamespace}.json"), 
+                        JsonConvert.SerializeObject(parsedJson, Formatting.Indented));
                 }
                 else
                 {
