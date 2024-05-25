@@ -59,8 +59,8 @@ namespace CongressDotGov.Contractor.Generators
                 sb.AppendLine("// </auto-generated>");
                 sb.AppendLine("//----------------------");
                 sb.AppendLine("using System;");
-                sb.AppendLine("using CapitolSharp.Congress.Core.Enums;");
-                sb.AppendLine("using CapitolSharp.Congress.Core.Models;");
+                sb.AppendLine("using CapitolSharp.Congress.Enums;");
+                sb.AppendLine("using CapitolSharp.Congress.Models;");
                 sb.AppendLine();
                 sb.AppendLine($"namespace CapitolSharp.Congress.{parentNamespace}");
                 sb.AppendLine("{");
