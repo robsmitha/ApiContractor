@@ -1,0 +1,93 @@
+{
+  "bill": {
+    "actions": {
+      "count": 28,
+      "url": "https://api.congress.gov/v3/bill/118/hr/1042/actions?format=json"
+    },
+    "cboCostEstimates": [
+      {
+        "description": "As reported by the House Committee on Energy and Commerce on December 1, 2023\n",
+        "pubDate": "2023-12-05T16:27:00Z",
+        "title": "H.R. 1042, Prohibiting Russian Uranium Imports Act",
+        "url": "https://www.cbo.gov/publication/59805"
+      }
+    ],
+    "committeeReports": [
+      {
+        "citation": "H. Rept. 118-296",
+        "url": "https://api.congress.gov/v3/committee-report/118/HRPT/296?format=json"
+      }
+    ],
+    "committees": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/118/hr/1042/committees?format=json"
+    },
+    "congress": 118,
+    "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 169, Number 30 (Tuesday, February 14, 2023)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mrs. RODGERS of Washington:\nH.R. 1042.\nCongress has the power to enact this legislation pursuant\nto the following:\nArticle 1, Section 10\nThe single subject of this legislation is:\nTo increase American energy production and restore energy\nleadership by preventing imports of uranium from Russia.\n[Page H842]\n</pre>",
+    "cosponsors": {
+      "count": 6,
+      "countIncludingWithdrawnCosponsors": 6,
+      "url": "https://api.congress.gov/v3/bill/118/hr/1042/cosponsors?format=json"
+    },
+    "introducedDate": "2023-02-14",
+    "latestAction": {
+      "actionDate": "2024-05-13",
+      "text": "Became Public Law No: 118-62."
+    },
+    "laws": [
+      {
+        "number": "118-62",
+        "type": "Public Law"
+      }
+    ],
+    "number": "1042",
+    "originChamber": "House",
+    "originChamberCode": "H",
+    "policyArea": {
+      "name": "Energy"
+    },
+    "relatedBills": {
+      "count": 1,
+      "url": "https://api.congress.gov/v3/bill/118/hr/1042/relatedbills?format=json"
+    },
+    "sponsors": [
+      {
+        "bioguideId": "M001159",
+        "district": 5,
+        "firstName": "Cathy",
+        "fullName": "Rep. McMorris Rodgers, Cathy [R-WA-5]",
+        "isByRequest": "N",
+        "lastName": "Rodgers",
+        "middleName": "McMorris",
+        "party": "R",
+        "state": "WA",
+        "url": "https://api.congress.gov/v3/member/M001159?format=json"
+      }
+    ],
+    "subjects": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/bill/118/hr/1042/subjects?format=json"
+    },
+    "summaries": {
+      "count": 3,
+      "url": "https://api.congress.gov/v3/bill/118/hr/1042/summaries?format=json"
+    },
+    "textVersions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/118/hr/1042/text?format=json"
+    },
+    "title": "Prohibiting Russian Uranium Imports Act",
+    "titles": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/bill/118/hr/1042/titles?format=json"
+    },
+    "type": "HR",
+    "updateDate": "2024-05-24T13:42:16Z",
+    "updateDateIncludingText": "2024-05-24T13:42:16Z"
+  },
+  "request": {
+    "congress": "118",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}
