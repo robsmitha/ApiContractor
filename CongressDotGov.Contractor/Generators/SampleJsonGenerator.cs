@@ -9,7 +9,7 @@ using System.Xml.Linq;
 
 namespace CongressDotGov.Contractor.Generators
 {
-    public class FromSwaggerJsonSampleJsonGenerator
+    public class SampleJsonGenerator
     {
         public async Task RunAsync(string bin, string apiKey, string targetNamespace)
         {

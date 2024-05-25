@@ -5,7 +5,7 @@ using NJsonSchema.CodeGeneration.CSharp;
 
 namespace CongressDotGov.Contractor.Generators
 {
-    public class FromSampleJsonResponseGenerator
+    public class ResponseGenerator
     {
         public async Task RunAsync(string bin, string targetNamespace)
         {

@@ -8,7 +8,7 @@ using System.Text;
 
 namespace CongressDotGov.Contractor.Generators
 {
-    public class FromSwaggerJsonRequestGenerator
+    public class RequestGenerator
     {
         public async Task RunAsync(string bin, string targetNamespace)
         {
