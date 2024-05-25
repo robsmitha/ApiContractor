@@ -1,0 +1,155 @@
+{
+  "hearings": [
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 44717,
+      "updateDate": "2023-10-18T10:49:34Z",
+      "url": "https://api.congress.gov/v3/hearing/117/house/44717"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 48580,
+      "number": 66,
+      "updateDate": "2023-10-17T19:49:38Z",
+      "url": "https://api.congress.gov/v3/hearing/117/house/48580"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 45867,
+      "updateDate": "2023-10-18T09:19:39Z",
+      "url": "https://api.congress.gov/v3/hearing/117/house/45867"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 46681,
+      "updateDate": "2023-10-18T08:49:45Z",
+      "url": "https://api.congress.gov/v3/hearing/117/house/46681"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 3,
+      "updateDate": "2023-10-18T04:34:39Z",
+      "url": "https://api.congress.gov/v3/hearing/117/house/3"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 48754,
+      "updateDate": "2023-10-18T04:04:38Z",
+      "url": "https://api.congress.gov/v3/hearing/117/house/48754"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 45612,
+      "updateDate": "2023-10-18T09:49:42Z",
+      "url": "https://api.congress.gov/v3/hearing/117/house/45612"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 47741,
+      "updateDate": "2023-10-18T13:34:08Z",
+      "url": "https://api.congress.gov/v3/hearing/117/house/47741"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 49394,
+      "updateDate": "2023-10-18T02:19:45Z",
+      "url": "https://api.congress.gov/v3/hearing/117/house/49394"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 43961,
+      "updateDate": "2023-10-18T11:19:26Z",
+      "url": "https://api.congress.gov/v3/hearing/117/house/43961"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 47806,
+      "updateDate": "2023-10-18T13:04:18Z",
+      "url": "https://api.congress.gov/v3/hearing/117/house/47806"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 47775,
+      "updateDate": "2023-10-18T12:49:22Z",
+      "url": "https://api.congress.gov/v3/hearing/117/house/47775"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 48301,
+      "updateDate": "2023-10-18T05:19:41Z",
+      "url": "https://api.congress.gov/v3/hearing/117/house/48301"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 48778,
+      "updateDate": "2023-10-18T04:04:39Z",
+      "url": "https://api.congress.gov/v3/hearing/117/house/48778"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 46837,
+      "updateDate": "2023-10-18T11:49:23Z",
+      "url": "https://api.congress.gov/v3/hearing/117/house/46837"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 45382,
+      "updateDate": "2023-10-18T05:04:41Z",
+      "url": "https://api.congress.gov/v3/hearing/117/house/45382"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 45605,
+      "updateDate": "2023-10-18T05:19:40Z",
+      "url": "https://api.congress.gov/v3/hearing/117/house/45605"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 48313,
+      "updateDate": "2023-10-18T05:04:41Z",
+      "url": "https://api.congress.gov/v3/hearing/117/house/48313"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 47820,
+      "updateDate": "2023-10-18T04:04:38Z",
+      "url": "https://api.congress.gov/v3/hearing/117/house/47820"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 47738,
+      "updateDate": "2023-10-18T12:49:21Z",
+      "url": "https://api.congress.gov/v3/hearing/117/house/47738"
+    }
+  ],
+  "pagination": {
+    "count": 1064,
+    "next": "https://api.congress.gov/v3/hearing/117/house?offset=20&limit=20&format=json"
+  },
+  "request": {
+    "chamber": "house",
+    "congress": "117",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

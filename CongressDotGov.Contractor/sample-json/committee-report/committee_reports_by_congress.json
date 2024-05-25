@@ -1,0 +1,213 @@
+{
+  "pagination": {
+    "count": 1019,
+    "next": "https://api.congress.gov/v3/committee-report/117?offset=20&limit=20&format=json"
+  },
+  "reports": [
+    {
+      "chamber": "House",
+      "citation": "H. Rept. 117-709",
+      "congress": 117,
+      "number": 709,
+      "part": 1,
+      "type": "HRPT",
+      "updateDate": "2024-04-17 23:45:12+00:00",
+      "url": "https://api.congress.gov/v3/committee-report/117/HRPT/709?format=json"
+    },
+    {
+      "chamber": "House",
+      "citation": "H. Rept. 117-708",
+      "congress": 117,
+      "number": 708,
+      "part": 1,
+      "type": "HRPT",
+      "updateDate": "2024-04-17 23:45:10+00:00",
+      "url": "https://api.congress.gov/v3/committee-report/117/HRPT/708?format=json"
+    },
+    {
+      "chamber": "House",
+      "citation": "H. Rept. 117-707",
+      "congress": 117,
+      "number": 707,
+      "part": 1,
+      "type": "HRPT",
+      "updateDate": "2024-04-17 23:45:19+00:00",
+      "url": "https://api.congress.gov/v3/committee-report/117/HRPT/707?format=json"
+    },
+    {
+      "chamber": "House",
+      "citation": "H. Rept. 117-706",
+      "congress": 117,
+      "number": 706,
+      "part": 1,
+      "type": "HRPT",
+      "updateDate": "2024-04-17 23:45:38+00:00",
+      "url": "https://api.congress.gov/v3/committee-report/117/HRPT/706?format=json"
+    },
+    {
+      "chamber": "House",
+      "citation": "H. Rept. 117-705",
+      "congress": 117,
+      "number": 705,
+      "part": 1,
+      "type": "HRPT",
+      "updateDate": "2024-04-17 23:45:33+00:00",
+      "url": "https://api.congress.gov/v3/committee-report/117/HRPT/705?format=json"
+    },
+    {
+      "chamber": "House",
+      "citation": "H. Rept. 117-704",
+      "congress": 117,
+      "number": 704,
+      "part": 1,
+      "type": "HRPT",
+      "updateDate": "2024-04-17 23:44:57+00:00",
+      "url": "https://api.congress.gov/v3/committee-report/117/HRPT/704?format=json"
+    },
+    {
+      "chamber": "House",
+      "citation": "H. Rept. 117-703",
+      "congress": 117,
+      "number": 703,
+      "part": 1,
+      "type": "HRPT",
+      "updateDate": "2024-04-17 23:44:39+00:00",
+      "url": "https://api.congress.gov/v3/committee-report/117/HRPT/703?format=json"
+    },
+    {
+      "chamber": "House",
+      "citation": "H. Rept. 117-702",
+      "congress": 117,
+      "number": 702,
+      "part": 1,
+      "type": "HRPT",
+      "updateDate": "2024-04-17 23:45:03+00:00",
+      "url": "https://api.congress.gov/v3/committee-report/117/HRPT/702?format=json"
+    },
+    {
+      "chamber": "House",
+      "citation": "H. Rept. 117-701",
+      "congress": 117,
+      "number": 701,
+      "part": 1,
+      "type": "HRPT",
+      "updateDate": "2024-04-17 23:44:53+00:00",
+      "url": "https://api.congress.gov/v3/committee-report/117/HRPT/701?format=json"
+    },
+    {
+      "chamber": "House",
+      "citation": "H. Rept. 117-700",
+      "congress": 117,
+      "number": 700,
+      "part": 1,
+      "type": "HRPT",
+      "updateDate": "2024-04-17 23:44:49+00:00",
+      "url": "https://api.congress.gov/v3/committee-report/117/HRPT/700?format=json"
+    },
+    {
+      "chamber": "House",
+      "citation": "H. Rept. 117-699",
+      "congress": 117,
+      "number": 699,
+      "part": 1,
+      "type": "HRPT",
+      "updateDate": "2024-04-17 23:44:45+00:00",
+      "url": "https://api.congress.gov/v3/committee-report/117/HRPT/699?format=json"
+    },
+    {
+      "chamber": "House",
+      "citation": "H. Rept. 117-698",
+      "congress": 117,
+      "number": 698,
+      "part": 1,
+      "type": "HRPT",
+      "updateDate": "2024-04-17 23:44:49+00:00",
+      "url": "https://api.congress.gov/v3/committee-report/117/HRPT/698?format=json"
+    },
+    {
+      "chamber": "House",
+      "citation": "H. Rept. 117-697",
+      "congress": 117,
+      "number": 697,
+      "part": 1,
+      "type": "HRPT",
+      "updateDate": "2024-04-17 23:44:51+00:00",
+      "url": "https://api.congress.gov/v3/committee-report/117/HRPT/697?format=json"
+    },
+    {
+      "chamber": "House",
+      "citation": "H. Rept. 117-696",
+      "congress": 117,
+      "number": 696,
+      "part": 1,
+      "type": "HRPT",
+      "updateDate": "2024-04-17 23:45:31+00:00",
+      "url": "https://api.congress.gov/v3/committee-report/117/HRPT/696?format=json"
+    },
+    {
+      "chamber": "House",
+      "citation": "H. Rept. 117-695",
+      "congress": 117,
+      "number": 695,
+      "part": 1,
+      "type": "HRPT",
+      "updateDate": "2024-04-17 23:45:31+00:00",
+      "url": "https://api.congress.gov/v3/committee-report/117/HRPT/695?format=json"
+    },
+    {
+      "chamber": "House",
+      "citation": "H. Rept. 117-694",
+      "congress": 117,
+      "number": 694,
+      "part": 1,
+      "type": "HRPT",
+      "updateDate": "2024-04-17 23:45:42+00:00",
+      "url": "https://api.congress.gov/v3/committee-report/117/HRPT/694?format=json"
+    },
+    {
+      "chamber": "House",
+      "citation": "H. Rept. 117-693",
+      "congress": 117,
+      "number": 693,
+      "part": 1,
+      "type": "HRPT",
+      "updateDate": "2024-04-17 23:45:31+00:00",
+      "url": "https://api.congress.gov/v3/committee-report/117/HRPT/693?format=json"
+    },
+    {
+      "chamber": "House",
+      "citation": "H. Rept. 117-692",
+      "congress": 117,
+      "number": 692,
+      "part": 1,
+      "type": "HRPT",
+      "updateDate": "2024-04-17 23:45:33+00:00",
+      "url": "https://api.congress.gov/v3/committee-report/117/HRPT/692?format=json"
+    },
+    {
+      "chamber": "House",
+      "citation": "H. Rept. 117-691",
+      "congress": 117,
+      "number": 691,
+      "part": 1,
+      "type": "HRPT",
+      "updateDate": "2024-04-17 23:44:40+00:00",
+      "url": "https://api.congress.gov/v3/committee-report/117/HRPT/691?format=json"
+    },
+    {
+      "chamber": "House",
+      "citation": "H. Rept. 117-690",
+      "congress": 117,
+      "number": 690,
+      "part": 1,
+      "type": "HRPT",
+      "updateDate": "2024-04-17 23:44:26+00:00",
+      "url": "https://api.congress.gov/v3/committee-report/117/HRPT/690?format=json"
+    }
+  ],
+  "request": {
+    "congress": "117",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

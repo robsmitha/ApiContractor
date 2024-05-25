@@ -1,0 +1,313 @@
+{
+  "cosponsoredLegislation": [
+    {
+      "congress": 118,
+      "introducedDate": "2024-01-22",
+      "latestAction": {
+        "actionDate": "2024-02-06",
+        "text": "Ordered to be Reported by Voice Vote."
+      },
+      "number": "965",
+      "policyArea": {
+        "name": "International Affairs"
+      },
+      "title": "Calling for the immediate release of Ryan Corbett, a United States citizen, who was wrongfully detained by the Taliban on August 10, 2022, and condemning the wrongful detention of Americans by the Taliban.",
+      "type": "HRES",
+      "url": "https://api.congress.gov/v3/bill/118/hres/965?format=json"
+    },
+    {
+      "congress": 118,
+      "introducedDate": "2023-12-11",
+      "latestAction": {
+        "actionDate": "2023-06-30",
+        "text": "Referred to the House Committee on the Judiciary."
+      },
+      "number": "4432",
+      "policyArea": {
+        "name": "Crime and Law Enforcement"
+      },
+      "title": "LGBTQ+ Panic Defense Prohibition Act of 2023",
+      "type": "HR",
+      "url": "https://api.congress.gov/v3/bill/118/hr/4432?format=json"
+    },
+    {
+      "congress": 118,
+      "introducedDate": "2023-12-07",
+      "latestAction": {
+        "actionDate": "2024-05-16",
+        "text": "Received in the Senate."
+      },
+      "number": "4581",
+      "policyArea": {
+        "name": "Health"
+      },
+      "title": "Maternal and Child Health Stillbirth Prevention Act of 2024",
+      "type": "HR",
+      "url": "https://api.congress.gov/v3/bill/118/hr/4581?format=json"
+    },
+    {
+      "congress": 118,
+      "introducedDate": "2023-12-05",
+      "latestAction": {
+        "actionDate": "2023-09-22",
+        "text": "Referred to the House Committee on Education and the Workforce."
+      },
+      "number": "5685",
+      "policyArea": {
+        "name": "Education"
+      },
+      "title": "Tyler Clementi Higher Education Anti-Harassment Act of 2023",
+      "type": "HR",
+      "url": "https://api.congress.gov/v3/bill/118/hr/5685?format=json"
+    },
+    {
+      "congress": 118,
+      "introducedDate": "2023-12-01",
+      "latestAction": {
+        "actionDate": "2023-01-12",
+        "text": "Referred to the House Committee on Oversight and Accountability."
+      },
+      "number": "308",
+      "policyArea": {
+        "name": "Civil Rights and Liberties, Minority Issues"
+      },
+      "title": "Rosa Parks Day Act",
+      "type": "HR",
+      "url": "https://api.congress.gov/v3/bill/118/hr/308?format=json"
+    },
+    {
+      "congress": 118,
+      "introducedDate": "2023-11-30",
+      "latestAction": {
+        "actionDate": "2023-04-14",
+        "text": "Referred to the Subcommittee on Health."
+      },
+      "number": "2474",
+      "policyArea": {
+        "name": "Health"
+      },
+      "title": "Strengthening Medicare for Patients and Providers Act",
+      "type": "HR",
+      "url": "https://api.congress.gov/v3/bill/118/hr/2474?format=json"
+    },
+    {
+      "congress": 118,
+      "introducedDate": "2023-11-30",
+      "latestAction": {
+        "actionDate": "2023-06-23",
+        "text": "Referred to the House Committee on Ways and Means."
+      },
+      "number": "4326",
+      "policyArea": {
+        "name": "Taxation"
+      },
+      "title": "PRIDE Act of 2023",
+      "type": "HR",
+      "url": "https://api.congress.gov/v3/bill/118/hr/4326?format=json"
+    },
+    {
+      "congress": 118,
+      "introducedDate": "2023-11-29",
+      "latestAction": {
+        "actionDate": "2023-06-09",
+        "text": "Referred to the House Committee on Oversight and Accountability."
+      },
+      "number": "3970",
+      "policyArea": {
+        "name": "Government Operations and Politics"
+      },
+      "title": "LGBTQI+ Data Inclusion Act",
+      "type": "HR",
+      "url": "https://api.congress.gov/v3/bill/118/hr/3970?format=json"
+    },
+    {
+      "congress": 118,
+      "introducedDate": "2023-11-29",
+      "latestAction": {
+        "actionDate": "2023-10-25",
+        "text": "Referred to the House Committee on Education and the Workforce."
+      },
+      "number": "6031",
+      "policyArea": {
+        "name": "Education"
+      },
+      "title": "Safe Schools Improvement Act",
+      "type": "HR",
+      "url": "https://api.congress.gov/v3/bill/118/hr/6031?format=json"
+    },
+    {
+      "congress": 118,
+      "introducedDate": "2023-11-21",
+      "latestAction": {
+        "actionDate": "2023-11-21",
+        "text": "Referred to the House Committee on the Judiciary."
+      },
+      "number": "886",
+      "policyArea": {
+        "name": "Civil Rights and Liberties, Minority Issues"
+      },
+      "title": "Supporting the goals and principles of Transgender Day of Remembrance by recognizing the epidemic of violence toward transgender people and memorializing the lives lost this year.",
+      "type": "HRES",
+      "url": "https://api.congress.gov/v3/bill/118/hres/886?format=json"
+    },
+    {
+      "congress": 118,
+      "introducedDate": "2023-11-09",
+      "latestAction": {
+        "actionDate": "2023-11-09",
+        "text": "Referred to the House Committee on Oversight and Accountability."
+      },
+      "number": "75",
+      "policyArea": {
+        "name": "Armed Forces and National Security"
+      },
+      "title": "Expressing the sense of Congress that a commemorative postage stamp should be issued in honor of the Buffalo Soldiers.",
+      "type": "HCONRES",
+      "url": "https://api.congress.gov/v3/bill/118/hconres/75?format=json"
+    },
+    {
+      "congress": 118,
+      "introducedDate": "2023-11-09",
+      "latestAction": {
+        "actionDate": "2023-11-09",
+        "text": "Referred to the House Committee on Veterans' Affairs."
+      },
+      "number": "76",
+      "policyArea": {
+        "name": "Armed Forces and National Security"
+      },
+      "title": "Recognizing the difficult challenges Black veterans faced when returning home after serving in the Armed Forces, their heroic military sacrifices, and their patriotism in fighting for equal rights and for the dignity of a people and a Nation.",
+      "type": "HCONRES",
+      "url": "https://api.congress.gov/v3/bill/118/hconres/76?format=json"
+    },
+    {
+      "congress": 118,
+      "introducedDate": "2023-11-09",
+      "latestAction": {
+        "actionDate": "2023-03-17",
+        "text": "Referred to the Subcommittee on Health."
+      },
+      "number": "1526",
+      "policyArea": {
+        "name": "Health"
+      },
+      "title": "Reducing Hereditary Cancer Act",
+      "type": "HR",
+      "url": "https://api.congress.gov/v3/bill/118/hr/1526?format=json"
+    },
+    {
+      "congress": 118,
+      "introducedDate": "2023-11-08",
+      "latestAction": {
+        "actionDate": "2023-11-08",
+        "text": "Referred to the House Committee on Education and the Workforce."
+      },
+      "number": "6301",
+      "policyArea": {
+        "name": "Health"
+      },
+      "title": "Cancer Drug Parity Act of 2023",
+      "type": "HR",
+      "url": "https://api.congress.gov/v3/bill/118/hr/6301?format=json"
+    },
+    {
+      "congress": 118,
+      "introducedDate": "2023-11-06",
+      "latestAction": {
+        "actionDate": "2023-09-29",
+        "text": "Referred to the House Committee on Veterans' Affairs."
+      },
+      "number": "750",
+      "policyArea": {
+        "name": "Armed Forces and National Security"
+      },
+      "title": "Recognizing Operation Green Light for Veterans for supporting veterans and raising awareness about important county resources available to help veterans transition to civilian life.",
+      "type": "HRES",
+      "url": "https://api.congress.gov/v3/bill/118/hres/750?format=json"
+    },
+    {
+      "congress": 118,
+      "introducedDate": "2023-11-02",
+      "latestAction": {
+        "actionDate": "2023-10-27",
+        "text": "Referred to the Subcommittee on Water Resources and Environment."
+      },
+      "number": "5983",
+      "policyArea": {
+        "name": "Environmental Protection"
+      },
+      "title": "Clean Water Act of 2023",
+      "type": "HR",
+      "url": "https://api.congress.gov/v3/bill/118/hr/5983?format=json"
+    },
+    {
+      "congress": 118,
+      "introducedDate": "2023-10-30",
+      "latestAction": {
+        "actionDate": "2023-10-26",
+        "text": "Referred to the House Committee on Oversight and Accountability."
+      },
+      "number": "819",
+      "policyArea": {
+        "name": "Crime and Law Enforcement"
+      },
+      "title": "Recognizing the 5-year anniversary of the horrific antisemitic attack at the Tree of Life Synagogue in Pittsburgh, Pennsylvania, on October 27, 2018, and condemning antisemitism.",
+      "type": "HRES",
+      "url": "https://api.congress.gov/v3/bill/118/hres/819?format=json"
+    },
+    {
+      "congress": 118,
+      "introducedDate": "2023-10-24",
+      "latestAction": {
+        "actionDate": "2023-04-20",
+        "text": "Sponsor introductory remarks on measure. (CR H1898)"
+      },
+      "number": "2673",
+      "policyArea": {
+        "name": "Taxation"
+      },
+      "title": "American Innovation and R&D Competitiveness Act of 2023",
+      "type": "HR",
+      "url": "https://api.congress.gov/v3/bill/118/hr/2673?format=json"
+    },
+    {
+      "congress": 118,
+      "introducedDate": "2023-10-20",
+      "latestAction": {
+        "actionDate": "2023-03-24",
+        "text": "Referred to the Subcommittee on Health."
+      },
+      "number": "1617",
+      "policyArea": {
+        "name": "Health"
+      },
+      "title": "Prevent Interruptions in Physical Therapy Act of 2023",
+      "type": "HR",
+      "url": "https://api.congress.gov/v3/bill/118/hr/1617?format=json"
+    },
+    {
+      "congress": 118,
+      "introducedDate": "2023-10-19",
+      "latestAction": {
+        "actionDate": "2023-07-28",
+        "text": "Referred to the Subcommittee on Health."
+      },
+      "number": "4829",
+      "policyArea": {
+        "name": "Health"
+      },
+      "title": "Physical Therapist Workforce and Patient Access Act of 2023",
+      "type": "HR",
+      "url": "https://api.congress.gov/v3/bill/118/hr/4829?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 3561,
+    "next": "https://api.congress.gov/v3/member/H001038/cosponsored-legislation?offset=20&limit=20&format=json"
+  },
+  "request": {
+    "bioguideId": "h001038",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

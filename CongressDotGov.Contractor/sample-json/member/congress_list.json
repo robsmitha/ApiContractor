@@ -1,0 +1,33 @@
+{
+  "members": [
+    {
+      "bioguideId": "B001287",
+      "depiction": {
+        "attribution": "GPO Member Guide",
+        "imageUrl": "https://www.congress.gov/img/member/b001287_200.jpg"
+      },
+      "district": 6,
+      "name": "Bera, Ami",
+      "partyName": "Democratic",
+      "state": "California",
+      "terms": {
+        "item": [
+          {
+            "chamber": "House of Representatives",
+            "startYear": 2013
+          }
+        ]
+      },
+      "updateDate": "2024-03-27T16:18:53Z",
+      "url": "https://api.congress.gov/v3/member/B001287?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 557,
+    "next": "https://api.congress.gov/v3/member/congress/117?offset=20&limit=20&format=json"
+  },
+  "request": {
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

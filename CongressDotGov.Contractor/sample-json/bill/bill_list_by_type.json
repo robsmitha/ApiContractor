@@ -1,0 +1,314 @@
+{
+  "bills": [
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2023-01-05",
+        "text": "Became Public Law No: 117-329."
+      },
+      "number": "897",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Agua Caliente Land Exchange Fee to Trust Confirmation Act",
+      "type": "HR",
+      "updateDate": "2024-04-17",
+      "updateDateIncludingText": "2024-04-17T23:44:57Z",
+      "url": "https://api.congress.gov/v3/bill/117/hr/897?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2023-01-05",
+        "text": "Became Public Law No: 117-333."
+      },
+      "number": "7939",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Veterans Auto and Education Improvement Act of 2022",
+      "type": "HR",
+      "updateDate": "2024-04-17",
+      "updateDateIncludingText": "2024-04-17T23:44:31Z",
+      "url": "https://api.congress.gov/v3/bill/117/hr/7939?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2023-01-05",
+        "text": "Became Private Law No: 117-3."
+      },
+      "number": "680",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "For the relief of Arpita Kurdekar, Girish Kurdekar, and Vandana Kurdekar.",
+      "type": "HR",
+      "updateDate": "2024-04-17",
+      "updateDateIncludingText": "2024-04-17T23:42:58Z",
+      "url": "https://api.congress.gov/v3/bill/117/hr/680?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2023-01-05",
+        "text": "Became Public Law No: 117-332."
+      },
+      "number": "1917",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Hazard Eligibility and Local Projects Act",
+      "type": "HR",
+      "updateDate": "2024-04-17",
+      "updateDateIncludingText": "2024-04-17T23:45:33Z",
+      "url": "https://api.congress.gov/v3/bill/117/hr/1917?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2023-01-05",
+        "text": "Became Public Law No: 117-331."
+      },
+      "number": "1154",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Great Dismal Swamp National Heritage Area Act",
+      "type": "HR",
+      "updateDate": "2024-04-17",
+      "updateDateIncludingText": "2024-04-17T23:44:57Z",
+      "url": "https://api.congress.gov/v3/bill/117/hr/1154?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2023-01-05",
+        "text": "Became Public Law No: 117-330."
+      },
+      "number": "1082",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Sami's Law",
+      "type": "HR",
+      "updateDate": "2024-04-17",
+      "updateDateIncludingText": "2024-04-17T23:45:33Z",
+      "url": "https://api.congress.gov/v3/bill/117/hr/1082?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2023-01-03",
+        "text": "Referred to the Subcommittee on Highways and Transit."
+      },
+      "number": "9704",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "DRIVERS Act",
+      "type": "HR",
+      "updateDate": "2024-02-07",
+      "updateDateIncludingText": "2024-02-07T16:02:17Z",
+      "url": "https://api.congress.gov/v3/bill/117/hr/9704?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2023-01-03",
+        "text": "Referred to the House Committee on Financial Services."
+      },
+      "number": "9706",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Ensuring Diverse Leadership Act of 2022",
+      "type": "HR",
+      "updateDate": "2024-02-06",
+      "updateDateIncludingText": "2024-02-06T19:38:08Z",
+      "url": "https://api.congress.gov/v3/bill/117/hr/9706?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2023-01-03",
+        "text": "Referred to the House Committee on Financial Services."
+      },
+      "number": "9705",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Promoting Diverse Investment Advisers Act",
+      "type": "HR",
+      "updateDate": "2024-02-06",
+      "updateDateIncludingText": "2024-02-06T19:38:08Z",
+      "url": "https://api.congress.gov/v3/bill/117/hr/9705?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2023-01-03",
+        "text": "Referred to the House Committee on Transportation and Infrastructure."
+      },
+      "number": "9709",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Protecting the Safety of Air Traffic Control and the Aviation System Act",
+      "type": "HR",
+      "updateDate": "2024-02-07",
+      "updateDateIncludingText": "2024-02-07T16:02:17Z",
+      "url": "https://api.congress.gov/v3/bill/117/hr/9709?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2023-01-03",
+        "text": "Referred to the House Committee on Education and Labor."
+      },
+      "number": "9707",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "MOM Act",
+      "type": "HR",
+      "updateDate": "2024-02-06",
+      "updateDateIncludingText": "2024-02-06T18:49:25Z",
+      "url": "https://api.congress.gov/v3/bill/117/hr/9707?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2023-01-03",
+        "text": "Referred to the House Committee on the Judiciary."
+      },
+      "number": "9708",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Fixing Administrations Unethical Corrupt Influence Act",
+      "type": "HR",
+      "updateDate": "2023-09-08",
+      "updateDateIncludingText": "2023-09-08T22:15:21Z",
+      "url": "https://api.congress.gov/v3/bill/117/hr/9708?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-12-30",
+        "text": "Placed on the Union Calendar, Calendar No. 512."
+      },
+      "number": "8487",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Improving Seniors’ Timely Access to Care Act of 2022",
+      "type": "HR",
+      "updateDate": "2024-04-17",
+      "updateDateIncludingText": "2024-04-17T23:45:31Z",
+      "url": "https://api.congress.gov/v3/bill/117/hr/8487?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-12-30",
+        "text": "Placed on the Union Calendar, Calendar No. 511."
+      },
+      "number": "3764",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Ocean-Based Climate Solutions Act of 2022",
+      "type": "HR",
+      "updateDate": "2024-04-17",
+      "updateDateIncludingText": "2024-04-17T23:45:33Z",
+      "url": "https://api.congress.gov/v3/bill/117/hr/3764?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-12-30",
+        "text": "Placed on the Union Calendar, Calendar No. 509."
+      },
+      "number": "4130",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "American Music Fairness Act of 2022",
+      "type": "HR",
+      "updateDate": "2024-04-17",
+      "updateDateIncludingText": "2024-04-17T23:45:31Z",
+      "url": "https://api.congress.gov/v3/bill/117/hr/4130?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-12-30",
+        "text": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 117-687, Part I."
+      },
+      "number": "2021",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Environmental Justice For All Act",
+      "type": "HR",
+      "updateDate": "2024-04-17",
+      "updateDateIncludingText": "2024-04-17T23:45:33Z",
+      "url": "https://api.congress.gov/v3/bill/117/hr/2021?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-12-30",
+        "text": "Placed on the Union Calendar, Calendar No. 503."
+      },
+      "number": "2780",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Insular Area Climate Change Act",
+      "type": "HR",
+      "updateDate": "2024-04-17",
+      "updateDateIncludingText": "2024-04-17T23:45:33Z",
+      "url": "https://api.congress.gov/v3/bill/117/hr/2780?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-12-30",
+        "text": "Placed on the Union Calendar, Calendar No. 502."
+      },
+      "number": "4690",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Sustaining America’s Fisheries for the Future Act of 2022",
+      "type": "HR",
+      "updateDate": "2024-04-17",
+      "updateDateIncludingText": "2024-04-17T23:45:31Z",
+      "url": "https://api.congress.gov/v3/bill/117/hr/4690?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-12-30",
+        "text": "Placed on the Union Calendar, Calendar No. 501."
+      },
+      "number": "8115",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Recreation and Public Purposes Tribal Parity Act",
+      "type": "HR",
+      "updateDate": "2024-04-17",
+      "updateDateIncludingText": "2024-04-17T23:45:27Z",
+      "url": "https://api.congress.gov/v3/bill/117/hr/8115?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-12-30",
+        "text": "Placed on the Union Calendar, Calendar No. 500."
+      },
+      "number": "7918",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Sea Turtle Rescue Assistance Act of 2022",
+      "type": "HR",
+      "updateDate": "2024-04-17",
+      "updateDateIncludingText": "2024-04-17T23:45:27Z",
+      "url": "https://api.congress.gov/v3/bill/117/hr/7918?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 9698,
+    "next": "https://api.congress.gov/v3/bill/117/hr?offset=20&limit=20&format=json"
+  },
+  "request": {
+    "billType": "hr",
+    "congress": "117",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

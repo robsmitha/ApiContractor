@@ -1,0 +1,254 @@
+{
+  "pagination": {
+    "count": 11290,
+    "next": "https://api.congress.gov/v3/committee/senate/ssas00/senate-communication?offset=20&limit=20&format=json"
+  },
+  "request": {
+    "chamber": "senate",
+    "contentType": "application/json",
+    "format": "json",
+    "systemCode": "ssas00"
+  },
+  "senateCommunications": [
+    {
+      "chamber": "Senate",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 114,
+      "number": 7402,
+      "referralDate": "2016-11-16",
+      "updateDate": "2017-01-06",
+      "url": "https://api.congress.gov/v3/senate-communication/114/ec/7402?format=json"
+    },
+    {
+      "chamber": "Senate",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 114,
+      "number": 7403,
+      "referralDate": "2016-11-16",
+      "updateDate": "2017-01-06",
+      "url": "https://api.congress.gov/v3/senate-communication/114/ec/7403?format=json"
+    },
+    {
+      "chamber": "Senate",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 114,
+      "number": 7404,
+      "referralDate": "2016-11-16",
+      "updateDate": "2017-01-06",
+      "url": "https://api.congress.gov/v3/senate-communication/114/ec/7404?format=json"
+    },
+    {
+      "chamber": "Senate",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 114,
+      "number": 7405,
+      "referralDate": "2016-11-16",
+      "updateDate": "2017-01-06",
+      "url": "https://api.congress.gov/v3/senate-communication/114/ec/7405?format=json"
+    },
+    {
+      "chamber": "Senate",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 114,
+      "number": 7406,
+      "referralDate": "2016-11-16",
+      "updateDate": "2017-01-06",
+      "url": "https://api.congress.gov/v3/senate-communication/114/ec/7406?format=json"
+    },
+    {
+      "chamber": "Senate",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 114,
+      "number": 7407,
+      "referralDate": "2016-11-16",
+      "updateDate": "2017-01-06",
+      "url": "https://api.congress.gov/v3/senate-communication/114/ec/7407?format=json"
+    },
+    {
+      "chamber": "Senate",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 114,
+      "number": 7408,
+      "referralDate": "2016-11-16",
+      "updateDate": "2017-01-06",
+      "url": "https://api.congress.gov/v3/senate-communication/114/ec/7408?format=json"
+    },
+    {
+      "chamber": "Senate",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 114,
+      "number": 7409,
+      "referralDate": "2016-11-16",
+      "updateDate": "2017-01-06",
+      "url": "https://api.congress.gov/v3/senate-communication/114/ec/7409?format=json"
+    },
+    {
+      "chamber": "Senate",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 114,
+      "number": 7410,
+      "referralDate": "2016-11-16",
+      "updateDate": "2017-01-06",
+      "url": "https://api.congress.gov/v3/senate-communication/114/ec/7410?format=json"
+    },
+    {
+      "chamber": "Senate",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 114,
+      "number": 7411,
+      "referralDate": "2016-11-16",
+      "updateDate": "2017-01-06",
+      "url": "https://api.congress.gov/v3/senate-communication/114/ec/7411?format=json"
+    },
+    {
+      "chamber": "Senate",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 114,
+      "number": 7412,
+      "referralDate": "2016-11-16",
+      "updateDate": "2017-01-06",
+      "url": "https://api.congress.gov/v3/senate-communication/114/ec/7412?format=json"
+    },
+    {
+      "chamber": "Senate",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 114,
+      "number": 7413,
+      "referralDate": "2016-11-16",
+      "updateDate": "2017-01-06",
+      "url": "https://api.congress.gov/v3/senate-communication/114/ec/7413?format=json"
+    },
+    {
+      "chamber": "Senate",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 114,
+      "number": 7414,
+      "referralDate": "2016-11-16",
+      "updateDate": "2017-01-06",
+      "url": "https://api.congress.gov/v3/senate-communication/114/ec/7414?format=json"
+    },
+    {
+      "chamber": "Senate",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 114,
+      "number": 7415,
+      "referralDate": "2016-11-16",
+      "updateDate": "2017-01-06",
+      "url": "https://api.congress.gov/v3/senate-communication/114/ec/7415?format=json"
+    },
+    {
+      "chamber": "Senate",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 114,
+      "number": 7416,
+      "referralDate": "2016-11-16",
+      "updateDate": "2017-01-06",
+      "url": "https://api.congress.gov/v3/senate-communication/114/ec/7416?format=json"
+    },
+    {
+      "chamber": "Senate",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 114,
+      "number": 7417,
+      "referralDate": "2016-11-16",
+      "updateDate": "2017-01-06",
+      "url": "https://api.congress.gov/v3/senate-communication/114/ec/7417?format=json"
+    },
+    {
+      "chamber": "Senate",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 114,
+      "number": 7418,
+      "referralDate": "2016-11-16",
+      "updateDate": "2017-01-06",
+      "url": "https://api.congress.gov/v3/senate-communication/114/ec/7418?format=json"
+    },
+    {
+      "chamber": "Senate",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 114,
+      "number": 7480,
+      "referralDate": "2016-11-16",
+      "updateDate": "2017-01-06",
+      "url": "https://api.congress.gov/v3/senate-communication/114/ec/7480?format=json"
+    },
+    {
+      "chamber": "Senate",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 114,
+      "number": 7876,
+      "referralDate": "2016-12-09",
+      "updateDate": "2017-01-06",
+      "url": "https://api.congress.gov/v3/senate-communication/114/ec/7876?format=json"
+    },
+    {
+      "chamber": "Senate",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 114,
+      "number": 7877,
+      "referralDate": "2016-12-09",
+      "updateDate": "2017-01-06",
+      "url": "https://api.congress.gov/v3/senate-communication/114/ec/7877?format=json"
+    }
+  ]
+}

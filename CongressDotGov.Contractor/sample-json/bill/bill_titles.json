@@ -1,0 +1,115 @@
+{
+  "pagination": {
+    "count": 14
+  },
+  "request": {
+    "billNumber": "3076",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/117/hr/3076?format=json",
+    "congress": "117",
+    "contentType": "application/json",
+    "format": "json"
+  },
+  "titles": [
+    {
+      "title": "Postal Service Reform Act of 2022",
+      "titleType": "Display Title",
+      "titleTypeCode": 45
+    },
+    {
+      "billTextVersionCode": "RH",
+      "billTextVersionName": "Reported in House",
+      "chamberCode": "H",
+      "chamberName": "House",
+      "title": "USPS Fairness Act",
+      "titleType": "Short Title(s) as Reported to House for portions of this bill",
+      "titleTypeCode": 107
+    },
+    {
+      "title": "USPS Fairness Act",
+      "titleType": "Short Titles as Enacted for portions of this bill",
+      "titleTypeCode": 27
+    },
+    {
+      "title": "Postal Service Reform Act of 2022",
+      "titleType": "Short Titles as Enacted",
+      "titleTypeCode": 19
+    },
+    {
+      "chamberCode": "S",
+      "chamberName": "Senate",
+      "title": "Postal Service Reform Act of 2022",
+      "titleType": "Short Titles as Passed Senate",
+      "titleTypeCode": 18
+    },
+    {
+      "billTextVersionCode": "EH",
+      "billTextVersionName": "Engrossed in House",
+      "title": "To provide stability to and enhance the services of the United States Postal Service, and for other purposes.",
+      "titleType": "Official Title as Introduced",
+      "titleTypeCode": 6
+    },
+    {
+      "chamberCode": "H",
+      "chamberName": "House",
+      "title": "USPS Fairness Act",
+      "titleType": "Short Titles as Passed House for portions of this bill",
+      "titleTypeCode": 25
+    },
+    {
+      "chamberCode": "S",
+      "chamberName": "Senate",
+      "title": "USPS Fairness Act",
+      "titleType": "Short Titles as Passed Senate for portions of this bill",
+      "titleTypeCode": 26
+    },
+    {
+      "chamberCode": "H",
+      "chamberName": "House",
+      "title": "Postal Service Reform Act of 2022",
+      "titleType": "Short Titles as Passed House",
+      "titleTypeCode": 17
+    },
+    {
+      "billTextVersionCode": "EH",
+      "billTextVersionName": "Engrossed in House",
+      "chamberCode": "H",
+      "chamberName": "House",
+      "title": "USPS Fairness Act",
+      "titleType": "Short Title(s) as Passed House for portions of this bill",
+      "titleTypeCode": 109
+    },
+    {
+      "billTextVersionCode": "EH",
+      "billTextVersionName": "Engrossed in House",
+      "chamberCode": "H",
+      "chamberName": "House",
+      "title": "Postal Service Reform Act of 2022",
+      "titleType": "Short Title(s) as Passed House",
+      "titleTypeCode": 104
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "USPS Fairness Act",
+      "titleType": "Short Title(s) as Introduced for portions of this bill",
+      "titleTypeCode": 106
+    },
+    {
+      "billTextVersionCode": "IH",
+      "billTextVersionName": "Introduced in House",
+      "title": "Postal Service Reform Act of 2021",
+      "titleType": "Short Title(s) as Introduced",
+      "titleTypeCode": 101
+    },
+    {
+      "billTextVersionCode": "RH",
+      "billTextVersionName": "Reported in House",
+      "chamberCode": "H",
+      "chamberName": "House",
+      "title": "Postal Service Reform Act of 2021",
+      "titleType": "Short Title(s) as Reported to House",
+      "titleTypeCode": 102
+    }
+  ]
+}

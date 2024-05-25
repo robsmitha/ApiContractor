@@ -1,0 +1,37 @@
+{
+  "committees": [
+    {
+      "chamber": "House",
+      "committeeTypeCode": "Select",
+      "name": "Hunger Committee",
+      "parent": {
+        "name": "Hunger Committee",
+        "systemCode": "hlhn00",
+        "url": "https://api.congress.gov/v3/committee/house/hlhn00?format=json"
+      },
+      "subcommittees": [
+        {
+          "name": "International Task Force Subcommittee",
+          "systemCode": "hlhn01",
+          "url": "https://api.congress.gov/v3/committee/house/hlhn01?format=json"
+        },
+        {
+          "name": "Domestic Task Force Subcommittee",
+          "systemCode": "hlhn02",
+          "url": "https://api.congress.gov/v3/committee/house/hlhn02?format=json"
+        }
+      ],
+      "systemCode": "hlhn00",
+      "url": "https://api.congress.gov/v3/committee/house/hlhn00?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 449,
+    "next": "https://api.congress.gov/v3/committee/house?offset=20&limit=20&format=json"
+  },
+  "request": {
+    "chamber": "house",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

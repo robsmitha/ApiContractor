@@ -1,0 +1,172 @@
+{
+  "boundCongressionalRecord": [
+    {
+      "congress": 77,
+      "date": "1942-11-27",
+      "sessionNumber": 2,
+      "updateDate": "2024-04-17",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1942/11/27?format=json",
+      "volumeNumber": 88
+    },
+    {
+      "congress": 77,
+      "date": "1942-11-27",
+      "sessionNumber": 2,
+      "updateDate": "2024-04-17",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1942/11/27?format=json",
+      "volumeNumber": 88
+    },
+    {
+      "congress": 77,
+      "date": "1942-11-27",
+      "sessionNumber": 2,
+      "updateDate": "2024-04-17",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1942/11/27?format=json",
+      "volumeNumber": 88
+    },
+    {
+      "congress": 77,
+      "date": "1942-11-25",
+      "sessionNumber": 2,
+      "updateDate": "2024-04-17",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1942/11/25?format=json",
+      "volumeNumber": 88
+    },
+    {
+      "congress": 78,
+      "date": "1943-01-06",
+      "sessionNumber": 1,
+      "updateDate": "2024-03-28",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1943/1/6?format=json",
+      "volumeNumber": 89
+    },
+    {
+      "congress": 91,
+      "date": "1969-10-01",
+      "sessionNumber": 1,
+      "updateDate": "2024-03-28",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1969/10/1?format=json",
+      "volumeNumber": 115
+    },
+    {
+      "congress": 44,
+      "date": "1875-03-05",
+      "sessionNumber": 1,
+      "updateDate": "2024-04-17",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1875/3/5?format=json",
+      "volumeNumber": 4
+    },
+    {
+      "congress": 45,
+      "date": "1877-03-05",
+      "sessionNumber": 1,
+      "updateDate": "2024-04-17",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1877/3/5?format=json",
+      "volumeNumber": 6
+    },
+    {
+      "congress": 64,
+      "date": "1916-01-26",
+      "sessionNumber": 1,
+      "updateDate": "2024-04-17",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1916/1/26?format=json",
+      "volumeNumber": 53
+    },
+    {
+      "congress": 64,
+      "date": "1916-01-26",
+      "sessionNumber": 1,
+      "updateDate": "2024-04-17",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1916/1/26?format=json",
+      "volumeNumber": 53
+    },
+    {
+      "congress": 64,
+      "date": "1916-01-26",
+      "sessionNumber": 1,
+      "updateDate": "2024-04-17",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1916/1/26?format=json",
+      "volumeNumber": 53
+    },
+    {
+      "congress": 64,
+      "date": "1916-01-25",
+      "sessionNumber": 1,
+      "updateDate": "2024-04-17",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1916/1/25?format=json",
+      "volumeNumber": 53
+    },
+    {
+      "congress": 64,
+      "date": "1916-01-21",
+      "sessionNumber": 1,
+      "updateDate": "2024-04-17",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1916/1/21?format=json",
+      "volumeNumber": 53
+    },
+    {
+      "congress": 64,
+      "date": "1916-01-20",
+      "sessionNumber": 1,
+      "updateDate": "2024-04-17",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1916/1/20?format=json",
+      "volumeNumber": 53
+    },
+    {
+      "congress": 64,
+      "date": "1916-01-20",
+      "sessionNumber": 1,
+      "updateDate": "2024-04-17",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1916/1/20?format=json",
+      "volumeNumber": 53
+    },
+    {
+      "congress": 64,
+      "date": "1916-01-20",
+      "sessionNumber": 1,
+      "updateDate": "2024-04-17",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1916/1/20?format=json",
+      "volumeNumber": 53
+    },
+    {
+      "congress": 64,
+      "date": "1916-01-19",
+      "sessionNumber": 1,
+      "updateDate": "2024-04-17",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1916/1/19?format=json",
+      "volumeNumber": 53
+    },
+    {
+      "congress": 64,
+      "date": "1916-01-19",
+      "sessionNumber": 1,
+      "updateDate": "2024-04-17",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1916/1/19?format=json",
+      "volumeNumber": 53
+    },
+    {
+      "congress": 64,
+      "date": "1916-01-19",
+      "sessionNumber": 1,
+      "updateDate": "2024-04-17",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1916/1/19?format=json",
+      "volumeNumber": 53
+    },
+    {
+      "congress": 64,
+      "date": "1916-01-18",
+      "sessionNumber": 1,
+      "updateDate": "2024-04-17",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1916/1/18?format=json",
+      "volumeNumber": 53
+    }
+  ],
+  "pagination": {
+    "count": 93320,
+    "next": "https://api.congress.gov/v3/bound-congressional-record?offset=20&limit=20&format=json"
+  },
+  "request": {
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

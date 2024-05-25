@@ -35,7 +35,7 @@ namespace CongressDotGov.Contractor.Generators
             {
                 // only get methods in this swagger file
                 var method = apiMethods[template].First();
-                if (!method.ParentNamespace.Equals(targetNamespace))
+                if (targetNamespace != "*" && !method.ParentNamespace.Equals(targetNamespace))
                 {
                     continue;
                 }
@@ -51,11 +51,18 @@ namespace CongressDotGov.Contractor.Generators
 
                 if (!endpoint.Contains("MISSING:"))
                 {
-                    var json = await httpClient.GetStringAsync("https://api.congress.gov/v3" + endpoint + "?format=json");
-                    var responseNamespace = method.OperationId;
-                    var parsedJson = JsonConvert.DeserializeObject(json);
-                    await File.WriteAllTextAsync(Path.Combine(writeFilePath, $"{responseNamespace}.json"), 
-                        JsonConvert.SerializeObject(parsedJson, Formatting.Indented));
+                    try
+                    {
+                        var json = await httpClient.GetStringAsync("https://api.congress.gov/v3" + endpoint + "?format=json");
+                        var responseNamespace = method.OperationId;
+                        var parsedJson = JsonConvert.DeserializeObject(json);
+                        await File.WriteAllTextAsync(Path.Combine(writeFilePath, $"{responseNamespace}.json"),
+                            JsonConvert.SerializeObject(parsedJson, Formatting.Indented));
+                    }
+                    catch (Exception e)
+                    {
+                        Console.WriteLine($"Error calling api [{endpoint}, {e.Message}]");
+                    }
                 }
                 else
                 {

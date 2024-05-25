@@ -1,0 +1,30 @@
+{
+  "nominations": [
+    {
+      "citation": "PN1391",
+      "congress": 118,
+      "latestAction": {
+        "actionDate": "2024-05-23",
+        "text": "Confirmed by the Senate by Voice Vote."
+      },
+      "nominationType": {
+        "isMilitary": true,
+        "isCivilian": true
+      },
+      "number": 1391,
+      "organization": "Navy",
+      "partNumber": "00",
+      "receivedDate": "2024-01-25",
+      "updateDate": "2024-05-24T10:14:36Z",
+      "url": "https://api.congress.gov/v3/nomination/118/1391?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 42787,
+    "next": "https://api.congress.gov/v3/nomination?offset=20&limit=20&format=json"
+  },
+  "request": {
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

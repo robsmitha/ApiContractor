@@ -1,0 +1,85 @@
+{
+  "nominees": [
+    {
+      "firstName": "JOHN",
+      "lastName": "SZCZEPANSKI",
+      "middleName": "T.",
+      "ordinal": 12
+    },
+    {
+      "firstName": "ERIN",
+      "lastName": "REYNOLDS",
+      "middleName": "S.",
+      "ordinal": 11
+    },
+    {
+      "firstName": "VRETTOS",
+      "lastName": "NOTARAS",
+      "middleName": "W.",
+      "ordinal": 10
+    },
+    {
+      "firstName": "MICHAEL",
+      "lastName": "MCKENZIE",
+      "middleName": "B.",
+      "ordinal": 9
+    },
+    {
+      "firstName": "DAVID",
+      "lastName": "KIM",
+      "middleName": "T.",
+      "ordinal": 8
+    },
+    {
+      "firstName": "NATHAN",
+      "lastName": "KIBBY",
+      "middleName": "W.",
+      "ordinal": 7
+    },
+    {
+      "firstName": "ROBERT",
+      "lastName": "HINES",
+      "middleName": "T.",
+      "ordinal": 6,
+      "suffix": "JR."
+    },
+    {
+      "firstName": "MATTHEW",
+      "lastName": "FAHRNER",
+      "middleName": "A.",
+      "ordinal": 5
+    },
+    {
+      "firstName": "MARK",
+      "lastName": "CRAMER",
+      "middleName": "A.",
+      "ordinal": 4
+    },
+    {
+      "firstName": "MARCO",
+      "lastName": "CARDENAS",
+      "middleName": "A.",
+      "ordinal": 3
+    },
+    {
+      "firstName": "ROBIN",
+      "lastName": "CADOW",
+      "middleName": "E.",
+      "ordinal": 2
+    },
+    {
+      "firstName": "DEAR",
+      "lastName": "BELOVED",
+      "ordinal": 1
+    }
+  ],
+  "pagination": {
+    "count": 12
+  },
+  "request": {
+    "congress": "117",
+    "contentType": "application/json",
+    "format": "json",
+    "number": "2467"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "members": [
+    {
+      "bioguideId": "M001201",
+      "depiction": {
+        "attribution": "Collection of the U.S. House of Representatives",
+        "imageUrl": "https://www.congress.gov/img/member/m001201_200.jpg"
+      },
+      "district": 10,
+      "name": "Mitchell, Paul",
+      "partyName": "Independent",
+      "state": "Michigan",
+      "terms": {
+        "item": [
+          {
+            "chamber": "House of Representatives",
+            "endYear": 2021,
+            "startYear": 2017
+          }
+        ]
+      },
+      "updateDate": "2022-12-16T21:56:51Z",
+      "url": "https://api.congress.gov/v3/member/M001201?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 9
+  },
+  "request": {
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

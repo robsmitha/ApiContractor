@@ -1,0 +1,156 @@
+{
+  "amendments": [
+    {
+      "congress": 117,
+      "number": "4981",
+      "type": "SAMDT",
+      "updateDate": "2022-03-08T05:16:17Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/4981?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "4980",
+      "type": "SAMDT",
+      "updateDate": "2022-03-08T05:16:17Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/4980?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "4979",
+      "type": "SAMDT",
+      "updateDate": "2022-03-08T05:16:18Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/4979?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "4978",
+      "type": "SAMDT",
+      "updateDate": "2022-03-08T05:16:17Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/4978?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "4977",
+      "type": "SAMDT",
+      "updateDate": "2022-03-08T05:16:18Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/4977?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "4976",
+      "type": "SAMDT",
+      "updateDate": "2022-03-04T08:46:19Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/4976?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "4975",
+      "type": "SAMDT",
+      "updateDate": "2022-03-04T08:46:19Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/4975?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "4974",
+      "type": "SAMDT",
+      "updateDate": "2022-03-04T08:46:19Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/4974?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "4973",
+      "type": "SAMDT",
+      "updateDate": "2022-03-04T08:46:19Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/4973?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "4972",
+      "type": "SAMDT",
+      "updateDate": "2022-03-04T08:46:19Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/4972?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "4971",
+      "type": "SAMDT",
+      "updateDate": "2022-03-04T08:46:19Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/4971?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "4970",
+      "type": "SAMDT",
+      "updateDate": "2022-03-04T08:46:19Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/4970?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "4969",
+      "type": "SAMDT",
+      "updateDate": "2022-03-03T05:16:21Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/4969?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "4968",
+      "type": "SAMDT",
+      "updateDate": "2022-03-03T05:16:21Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/4968?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "4967",
+      "type": "SAMDT",
+      "updateDate": "2022-03-03T05:16:21Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/4967?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "4966",
+      "type": "SAMDT",
+      "updateDate": "2022-03-03T05:16:21Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/4966?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "4965",
+      "type": "SAMDT",
+      "updateDate": "2022-03-03T05:16:22Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/4965?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "4964",
+      "type": "SAMDT",
+      "updateDate": "2022-03-03T05:16:22Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/4964?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "4963",
+      "type": "SAMDT",
+      "updateDate": "2022-03-03T05:16:22Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/4963?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "4962",
+      "type": "SAMDT",
+      "updateDate": "2022-03-03T05:16:21Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/4962?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 48,
+    "next": "https://api.congress.gov/v3/bill/117/hr/3076/amendments?offset=20&limit=20&format=json"
+  },
+  "request": {
+    "billNumber": "3076",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/117/hr/3076?format=json",
+    "congress": "117",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

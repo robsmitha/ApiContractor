@@ -1,0 +1,193 @@
+{
+  "dailyCongressionalRecord": [
+    {
+      "congress": 116,
+      "issueDate": "2021-01-03T05:00:00Z",
+      "issueNumber": "225",
+      "sessionNumber": 2,
+      "updateDate": "2021-01-04T11:15:10Z",
+      "url": "https://api.congress.gov/v3/daily-congressional-record/166/225?format=json",
+      "volumeNumber": 166
+    },
+    {
+      "congress": 116,
+      "issueDate": "2021-01-01T05:00:00Z",
+      "issueNumber": "224",
+      "sessionNumber": 2,
+      "updateDate": "2021-01-03T15:45:11Z",
+      "url": "https://api.congress.gov/v3/daily-congressional-record/166/224?format=json",
+      "volumeNumber": 166
+    },
+    {
+      "congress": 116,
+      "issueDate": "2020-12-31T05:00:00Z",
+      "issueNumber": "223",
+      "sessionNumber": 2,
+      "updateDate": "2021-01-01T22:15:12Z",
+      "url": "https://api.congress.gov/v3/daily-congressional-record/166/223?format=json",
+      "volumeNumber": 166
+    },
+    {
+      "congress": 116,
+      "issueDate": "2020-12-30T05:00:00Z",
+      "issueNumber": "222",
+      "sessionNumber": 2,
+      "updateDate": "2020-12-31T11:15:11Z",
+      "url": "https://api.congress.gov/v3/daily-congressional-record/166/222?format=json",
+      "volumeNumber": 166
+    },
+    {
+      "congress": 116,
+      "issueDate": "2020-12-29T05:00:00Z",
+      "issueNumber": "221",
+      "sessionNumber": 2,
+      "updateDate": "2020-12-30T13:15:11Z",
+      "url": "https://api.congress.gov/v3/daily-congressional-record/166/221?format=json",
+      "volumeNumber": 166
+    },
+    {
+      "congress": 116,
+      "issueDate": "2020-12-28T05:00:00Z",
+      "issueNumber": "220",
+      "sessionNumber": 2,
+      "updateDate": "2020-12-30T13:00:13Z",
+      "url": "https://api.congress.gov/v3/daily-congressional-record/166/220?format=json",
+      "volumeNumber": 166
+    },
+    {
+      "congress": 116,
+      "issueDate": "2020-12-24T05:00:00Z",
+      "issueNumber": "219",
+      "sessionNumber": 2,
+      "updateDate": "2020-12-30T13:00:47Z",
+      "url": "https://api.congress.gov/v3/daily-congressional-record/166/219?format=json",
+      "volumeNumber": 166
+    },
+    {
+      "congress": 116,
+      "issueDate": "2020-12-21T05:00:00Z",
+      "issueNumber": "218",
+      "sessionNumber": 2,
+      "updateDate": "2020-12-28T15:26:15Z",
+      "url": "https://api.congress.gov/v3/daily-congressional-record/166/218?format=json",
+      "volumeNumber": 166
+    },
+    {
+      "congress": 116,
+      "issueDate": "2020-12-20T05:00:00Z",
+      "issueNumber": "217",
+      "sessionNumber": 2,
+      "updateDate": "2020-12-21T13:45:11Z",
+      "url": "https://api.congress.gov/v3/daily-congressional-record/166/217?format=json",
+      "volumeNumber": 166
+    },
+    {
+      "congress": 116,
+      "issueDate": "2020-12-19T05:00:00Z",
+      "issueNumber": "216",
+      "sessionNumber": 2,
+      "updateDate": "2020-12-20T12:30:09Z",
+      "url": "https://api.congress.gov/v3/daily-congressional-record/166/216?format=json",
+      "volumeNumber": 166
+    },
+    {
+      "congress": 116,
+      "issueDate": "2020-12-18T05:00:00Z",
+      "issueNumber": "215",
+      "sessionNumber": 2,
+      "updateDate": "2020-12-19T15:45:12Z",
+      "url": "https://api.congress.gov/v3/daily-congressional-record/166/215?format=json",
+      "volumeNumber": 166
+    },
+    {
+      "congress": 116,
+      "issueDate": "2020-12-17T05:00:00Z",
+      "issueNumber": "214",
+      "sessionNumber": 2,
+      "updateDate": "2021-05-04T17:08:59Z",
+      "url": "https://api.congress.gov/v3/daily-congressional-record/166/214?format=json",
+      "volumeNumber": 166
+    },
+    {
+      "congress": 116,
+      "issueDate": "2020-12-16T05:00:00Z",
+      "issueNumber": "213",
+      "sessionNumber": 2,
+      "updateDate": "2020-12-17T19:18:58Z",
+      "url": "https://api.congress.gov/v3/daily-congressional-record/166/213?format=json",
+      "volumeNumber": 166
+    },
+    {
+      "congress": 116,
+      "issueDate": "2020-12-15T05:00:00Z",
+      "issueNumber": "212",
+      "sessionNumber": 2,
+      "updateDate": "2020-12-16T11:45:10Z",
+      "url": "https://api.congress.gov/v3/daily-congressional-record/166/212?format=json",
+      "volumeNumber": 166
+    },
+    {
+      "congress": 116,
+      "issueDate": "2020-12-14T05:00:00Z",
+      "issueNumber": "211",
+      "sessionNumber": 2,
+      "updateDate": "2020-12-15T14:00:13Z",
+      "url": "https://api.congress.gov/v3/daily-congressional-record/166/211?format=json",
+      "volumeNumber": 166
+    },
+    {
+      "congress": 116,
+      "issueDate": "2020-12-11T05:00:00Z",
+      "issueNumber": "210",
+      "sessionNumber": 2,
+      "updateDate": "2020-12-12T11:15:14Z",
+      "url": "https://api.congress.gov/v3/daily-congressional-record/166/210?format=json",
+      "volumeNumber": 166
+    },
+    {
+      "congress": 116,
+      "issueDate": "2020-12-10T05:00:00Z",
+      "issueNumber": "209",
+      "sessionNumber": 2,
+      "updateDate": "2020-12-11T13:45:10Z",
+      "url": "https://api.congress.gov/v3/daily-congressional-record/166/209?format=json",
+      "volumeNumber": 166
+    },
+    {
+      "congress": 116,
+      "issueDate": "2020-12-09T05:00:00Z",
+      "issueNumber": "208",
+      "sessionNumber": 2,
+      "updateDate": "2020-12-10T14:00:12Z",
+      "url": "https://api.congress.gov/v3/daily-congressional-record/166/208?format=json",
+      "volumeNumber": 166
+    },
+    {
+      "congress": 116,
+      "issueDate": "2020-12-08T05:00:00Z",
+      "issueNumber": "207",
+      "sessionNumber": 2,
+      "updateDate": "2020-12-09T17:00:11Z",
+      "url": "https://api.congress.gov/v3/daily-congressional-record/166/207?format=json",
+      "volumeNumber": 166
+    },
+    {
+      "congress": 116,
+      "issueDate": "2020-12-07T05:00:00Z",
+      "issueNumber": "206",
+      "sessionNumber": 2,
+      "updateDate": "2021-05-04T17:08:13Z",
+      "url": "https://api.congress.gov/v3/daily-congressional-record/166/206?format=json",
+      "volumeNumber": 166
+    }
+  ],
+  "pagination": {
+    "count": 225,
+    "next": "https://api.congress.gov/v3/daily-congressional-record/166?offset=20&limit=20&format=json"
+  },
+  "request": {
+    "contentType": "application/json",
+    "format": "json",
+    "volumeNumber": "166"
+  }
+}

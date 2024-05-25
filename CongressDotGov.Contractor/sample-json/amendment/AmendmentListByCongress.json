@@ -1,0 +1,253 @@
+{
+  "amendments": [
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-12-22",
+        "text": "Amendment SA 6628 agreed to in Senate by Unanimous Consent. "
+      },
+      "number": "6628",
+      "purpose": "To amend the title.",
+      "type": "SAMDT",
+      "updateDate": "2022-12-29T14:46:15Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/6628?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-12-22",
+        "text": "Amendment SA 6627 agreed to in Senate by Unanimous Consent. "
+      },
+      "number": "6627",
+      "purpose": "In the nature of a substitute.",
+      "type": "SAMDT",
+      "updateDate": "2022-12-29T14:46:15Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/6627?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-12-22",
+        "text": "Amendment SA 6626 agreed to in Senate by Unanimous Consent. "
+      },
+      "number": "6626",
+      "purpose": "In the nature of substitute.",
+      "type": "SAMDT",
+      "updateDate": "2022-12-29T14:46:15Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/6626?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-12-22",
+        "text": "Amendment SA 6625 agreed to in Senate by Unanimous Consent. "
+      },
+      "number": "6625",
+      "purpose": "To amend the title.",
+      "type": "SAMDT",
+      "updateDate": "2022-12-29T14:46:15Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/6625?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-12-22",
+        "text": "Amendment SA 6624 agreed to in Senate by Unanimous Consent. "
+      },
+      "number": "6624",
+      "purpose": "In the nature of a substitute.",
+      "type": "SAMDT",
+      "updateDate": "2022-12-29T14:46:15Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/6624?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-12-22",
+        "text": "Amendment SA 6623 agreed to in Senate by Unanimous Consent. "
+      },
+      "number": "6623",
+      "purpose": "In the nature of a substitute.",
+      "type": "SAMDT",
+      "updateDate": "2022-12-29T14:46:15Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/6623?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-12-22",
+        "text": "Amendment SA 6552, under the order of 12/22/22, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 68 - 29. Record Vote Number: 421. "
+      },
+      "number": "6552",
+      "purpose": "In the nature of a substitute.",
+      "type": "SAMDT",
+      "updateDate": "2023-02-03T05:19:37Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/6552?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-12-22",
+        "text": "Proposed amendment SA 6571 withdrawn in Senate. "
+      },
+      "number": "6571",
+      "purpose": "To add an effective date.",
+      "type": "SAMDT",
+      "updateDate": "2022-12-29T15:01:19Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/6571?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-12-22",
+        "text": "SA 6574 fell when SA 6573 fell. "
+      },
+      "number": "6574",
+      "purpose": "To modify the effective date.",
+      "type": "SAMDT",
+      "updateDate": "2022-12-29T15:01:19Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/6574?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-12-22",
+        "text": "SA 6573 fell when SA 6572 was withdrawn. "
+      },
+      "number": "6573",
+      "purpose": "To modify the effective date.",
+      "type": "SAMDT",
+      "updateDate": "2022-12-29T15:01:19Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/6573?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-12-22",
+        "text": "Proposed amendment SA 6572 withdrawn in Senate. "
+      },
+      "number": "6572",
+      "purpose": "To add an effective date.",
+      "type": "SAMDT",
+      "updateDate": "2022-12-29T15:01:19Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/6572?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-12-22",
+        "text": "Amendment SA 6617, under the order of 12/22/22, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 93 - 4. Record Vote Number: 420. "
+      },
+      "number": "6617",
+      "purpose": "To improve the Justice for the United States Victims of State Sponsored Terrorism Act.",
+      "type": "SAMDT",
+      "updateDate": "2023-03-14T15:16:21Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/6617?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-12-22",
+        "text": "Amendment SA 6607 as modified, under the order of 12/22/22, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 90 - 6. Record Vote Number: 419. "
+      },
+      "number": "6607",
+      "purpose": "To establish a World Trade Center Health Program Supplemental Fund.",
+      "type": "SAMDT",
+      "updateDate": "2023-02-16T15:46:15Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/6607?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-12-22",
+        "text": "Amendment SA 6597, under the order of 12/22/22, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 88 - 8. Record Vote Number: 418. "
+      },
+      "number": "6597",
+      "purpose": "To improve the bill.",
+      "type": "SAMDT",
+      "updateDate": "2022-12-29T15:01:18Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/6597?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-12-22",
+        "text": "Amendment SA 6595, under the order of 12/22/22, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 92 - 5. Record Vote Number: 417. "
+      },
+      "number": "6595",
+      "purpose": "To amend the Fair Labor Standards Act of 1938 to expand access to breastfeeding accommodations in the workplace, and for other purposes.",
+      "type": "SAMDT",
+      "updateDate": "2022-12-29T15:01:18Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/6595?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-12-22",
+        "text": "Amendment SA 6596 as modified agreed to in Senate by Voice Vote. "
+      },
+      "number": "6596",
+      "purpose": "To authorize the transfer of the proceeds of certain forfeited property to help Ukraine recover from the harms caused by the ongoing Russian aggression.",
+      "type": "SAMDT",
+      "updateDate": "2023-03-21T15:01:16Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/6596?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-12-22",
+        "text": "Amendment SA 6588 agreed to in Senate by Voice Vote. "
+      },
+      "number": "6588",
+      "purpose": "To amend title VI of the Social Security Act to allow States and local governments to use coronavirus relief funds provided under the American Rescue Plan Act for infrastructure projects, improve the Local Assistance and Tribal Consistency Fund, provide Tribal governments with more time to Coronavirus Relief Fund payments, and for other purposes.",
+      "type": "SAMDT",
+      "updateDate": "2022-12-29T15:01:19Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/6588?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-12-22",
+        "text": "Amendment SA 6558, under the order of 12/22/22, having achieved 60 votes in the affirmative, was agreed to in Senate by Yea-Nay Vote. 73 - 24. Record Vote Number: 416. "
+      },
+      "number": "6558",
+      "purpose": "To eliminate discrimination and promote women's health and economic security by ensuring reasonable workplace accommodations for workers whose ability to perform the functions of a job are limited by pregnancy, childbirth, or a related medical condition.",
+      "type": "SAMDT",
+      "updateDate": "2022-12-29T14:46:15Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/6558?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-12-22",
+        "text": "Amendment SA 6569, under the order of 12/22/22, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 40 - 57. Record Vote Number: 415. "
+      },
+      "number": "6569",
+      "purpose": "To eliminate a waiver of State immunity.",
+      "type": "SAMDT",
+      "updateDate": "2022-12-29T15:01:19Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/6569?format=json"
+    },
+    {
+      "congress": 117,
+      "latestAction": {
+        "actionDate": "2022-12-22",
+        "text": "Amendment SA 6577 not agreed to in Senate by Yea-Nay Vote. 44 - 53. Record Vote Number: 414. "
+      },
+      "number": "6577",
+      "purpose": "To establish a rule of construction relating to religious entities.",
+      "type": "SAMDT",
+      "updateDate": "2022-12-29T15:01:19Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/6577?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 6961,
+    "next": "https://api.congress.gov/v3/amendment/117?offset=20&limit=20&format=json"
+  },
+  "request": {
+    "congress": "117",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

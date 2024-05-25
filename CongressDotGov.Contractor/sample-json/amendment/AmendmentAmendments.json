@@ -1,0 +1,156 @@
+{
+  "amendments": [
+    {
+      "congress": 117,
+      "number": "2714",
+      "type": "SAMDT",
+      "updateDate": "2022-02-25T17:34:49Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/2714?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "2654",
+      "type": "SAMDT",
+      "updateDate": "2022-02-25T17:34:49Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/2654?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "2653",
+      "type": "SAMDT",
+      "updateDate": "2022-02-25T17:34:49Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/2653?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "2652",
+      "type": "SAMDT",
+      "updateDate": "2022-02-25T17:34:49Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/2652?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "2651",
+      "type": "SAMDT",
+      "updateDate": "2022-02-25T17:34:50Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/2651?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "2650",
+      "type": "SAMDT",
+      "updateDate": "2022-02-25T17:34:49Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/2650?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "2649",
+      "type": "SAMDT",
+      "updateDate": "2022-02-25T17:34:49Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/2649?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "2648",
+      "type": "SAMDT",
+      "updateDate": "2022-02-25T17:34:49Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/2648?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "2647",
+      "type": "SAMDT",
+      "updateDate": "2022-02-25T17:34:50Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/2647?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "2646",
+      "type": "SAMDT",
+      "updateDate": "2022-02-25T17:34:49Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/2646?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "2645",
+      "type": "SAMDT",
+      "updateDate": "2022-02-25T17:34:50Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/2645?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "2644",
+      "type": "SAMDT",
+      "updateDate": "2022-02-25T17:34:50Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/2644?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "2643",
+      "type": "SAMDT",
+      "updateDate": "2022-02-25T17:34:49Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/2643?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "2642",
+      "type": "SAMDT",
+      "updateDate": "2022-02-25T17:34:50Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/2642?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "2641",
+      "type": "SAMDT",
+      "updateDate": "2022-02-25T17:34:50Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/2641?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "2639",
+      "type": "SAMDT",
+      "updateDate": "2022-02-25T17:34:49Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/2639?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "2638",
+      "type": "SAMDT",
+      "updateDate": "2022-02-25T17:34:50Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/2638?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "2637",
+      "type": "SAMDT",
+      "updateDate": "2022-02-25T17:34:50Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/2637?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "2636",
+      "type": "SAMDT",
+      "updateDate": "2022-02-25T17:34:49Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/2636?format=json"
+    },
+    {
+      "congress": 117,
+      "number": "2635",
+      "type": "SAMDT",
+      "updateDate": "2022-02-25T17:34:50Z",
+      "url": "https://api.congress.gov/v3/amendment/117/samdt/2635?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 507,
+    "next": "https://api.congress.gov/v3/amendment/117/samdt/2137/amendments?offset=20&limit=20&format=json"
+  },
+  "request": {
+    "amendmentNumber": "2137",
+    "amendmentType": "samdt",
+    "amendmentUrl": "https://api.congress.gov/v3/amendment/117/samdt/2137?format=json",
+    "congress": "117",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

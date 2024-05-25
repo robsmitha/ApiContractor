@@ -1,0 +1,23 @@
+{
+  "pagination": {
+    "count": 2
+  },
+  "request": {
+    "congress": "117",
+    "contentType": "application/json",
+    "format": "json",
+    "reportNumber": "617",
+    "reportType": "hrpt"
+  },
+  "text": [
+    {
+      "formats": [
+        {
+          "isErrata": "N",
+          "type": "Formatted Text",
+          "url": "https://www.congress.gov/117/crpt/hrpt617/generated/CRPT-117hrpt617.htm"
+        }
+      ]
+    }
+  ]
+}

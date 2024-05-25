@@ -1,0 +1,32 @@
+{
+  "nominations": [
+    {
+      "citation": "PN255",
+      "congress": 117,
+      "description": "Bill Nelson, of Florida, to be Administrator of the National Aeronautics and Space Administration, vice James Bridenstine.",
+      "latestAction": {
+        "actionDate": "2021-04-29",
+        "text": "Confirmed by the Senate by Voice Vote."
+      },
+      "nominationType": {
+        "isCivilian": true,
+        "isMilitary": true
+      },
+      "number": 255,
+      "organization": "National Aeronautics and Space Administration",
+      "partNumber": "00",
+      "receivedDate": "2021-03-24",
+      "updateDate": "2024-05-22T10:14:17Z",
+      "url": "https://api.congress.gov/v3/nomination/117/255?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 2787,
+    "next": "https://api.congress.gov/v3/nomination/117?offset=20&limit=20&format=json"
+  },
+  "request": {
+    "congress": "117",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

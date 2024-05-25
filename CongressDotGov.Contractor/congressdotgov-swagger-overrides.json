@@ -44,5 +44,45 @@
   },
   "bill_summaries_by_congress": {
     "congress": 118
+  },
+  "senate_communications_by_committee": {
+    "chamber": "senate",
+    "committeeCode": "ssas00"
+  },
+  "committee_meeting_detail": {
+    "congress": 118,
+    "chamber": "house",
+    "eventId": "115538"
+  },
+  "hearing_detail": {
+    "congress": 116,
+    "chamber": "house",
+    "jacketNumber": "41365"
+  },
+  "nomination_hearings": {
+    "congress": 116,
+    "nominationNumber": "389"
+  },
+  "treaty_detail": {
+    "congress": 116,
+    "treatyNumber": "1"
+  },
+  "treaty_details": {
+    "congress": 114,
+    "treatyNumber": "13",
+    "treatySuffix": "A"
+  },
+  "treaty_action": {
+    "congress": 116,
+    "treatyNumber": "1"
+  },
+  "treaty_actions": {
+    "congress": 114,
+    "treatyNumber": "13",
+    "treatySuffix": "A"
+  },
+  "treaty_committee": {
+    "congress": 116,
+    "treatyNumber": "3"
   }
 }

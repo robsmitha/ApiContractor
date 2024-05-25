@@ -1,0 +1,272 @@
+{
+  "amendments": [
+    {
+      "congress": 118,
+      "description": "An amendment numbered 3 printed in Part C of House Report 118-516 to ensure the Federal Reserve Bank cannot design, build, develop, establish, or issue a CBDC. Ensures the Treasury Department cannot direct the Federal Reserve Bank to do any of the above actions.",
+      "latestAction": {
+        "actionDate": "2024-05-23",
+        "actionTime": "13:44:15",
+        "text": "On agreeing to the Davidson amendment (A003) Agreed to by recorded vote: 212 - 195 (Roll no. 229)."
+      },
+      "number": "926",
+      "type": "HAMDT",
+      "updateDate": "2024-05-24T13:54:17Z",
+      "url": "https://api.congress.gov/v3/amendment/118/hamdt/926?format=json"
+    },
+    {
+      "congress": 118,
+      "description": "An amendment numbered 2 printed in Part C of House Report 118-516 to prohibit the Federal Reserve's Central Bank Digital Currency (CBDC) pilot programs.",
+      "latestAction": {
+        "actionDate": "2024-05-23",
+        "actionTime": "13:40:01",
+        "text": "On agreeing to the Mooney amendment (A002) Agreed to by recorded vote: 206 - 193 (Roll no. 228)."
+      },
+      "number": "925",
+      "type": "HAMDT",
+      "updateDate": "2024-05-24T13:54:16Z",
+      "url": "https://api.congress.gov/v3/amendment/118/hamdt/925?format=json"
+    },
+    {
+      "congress": 118,
+      "description": "An amendment numbered 1 printed in Part C of House Report 118-516 to add a sense of Congress that the Board of Governors of the Federal Reserve System and the Federal Open Market Committee should not be permitted to develop, create, or implement a central bank digital currency, or use any such tool to implement monetary policy.",
+      "latestAction": {
+        "actionDate": "2024-05-23",
+        "actionTime": "13:36:29",
+        "text": "On agreeing to the Ogles amendment (A001) Agreed to by recorded vote: 204 - 176 (Roll no. 227)."
+      },
+      "number": "924",
+      "type": "HAMDT",
+      "updateDate": "2024-05-24T13:54:16Z",
+      "url": "https://api.congress.gov/v3/amendment/118/hamdt/924?format=json"
+    },
+    {
+      "congress": 118,
+      "description": "Pursuant to the provisions of H. Res. 1243, the amendment in the nature of a substitute recommended by the Committee on Oversight and Accountability is considered adopted.",
+      "latestAction": {
+        "actionDate": "2024-05-23",
+        "text": "On agreeing to the Rules amendment (A001) Agreed to without objection."
+      },
+      "number": "923",
+      "type": "HAMDT",
+      "updateDate": "2024-05-24T14:09:11Z",
+      "url": "https://api.congress.gov/v3/amendment/118/hamdt/923?format=json"
+    },
+    {
+      "congress": 118,
+      "description": "An amendment numbered 4 printed in Part B of House Report 118-516 to add a sense of Congress to the end of title V that nothing in this Act or any amendment made by this Act should be interpreted to authorize any entity to regulate any commodity, other than a digital commodity, on any spot market.",
+      "latestAction": {
+        "actionDate": "2024-05-22",
+        "actionTime": "17:33:17",
+        "text": "On agreeing to the Perry amendment (A004) Agreed to by recorded vote: 225 - 191 (Roll no. 225)."
+      },
+      "number": "922",
+      "type": "HAMDT",
+      "updateDate": "2024-05-23T15:24:13Z",
+      "url": "https://api.congress.gov/v3/amendment/118/hamdt/922?format=json"
+    },
+    {
+      "congress": 118,
+      "description": "An amendment numbered 3 printed in Part B of House Report 118-516 to require a study on the impact of digital asset registrants owned by foreign adversaries.",
+      "latestAction": {
+        "actionDate": "2024-05-22",
+        "actionTime": "17:28:39",
+        "text": "On agreeing to the Norman amendment (A003) Agreed to by recorded vote: 411 - 0 (Roll no. 224)."
+      },
+      "number": "921",
+      "purpose": "Amendment requires a study on the impact of digital asset registrants owned by foreign adversaries.",
+      "type": "HAMDT",
+      "updateDate": "2024-05-24T08:09:11Z",
+      "url": "https://api.congress.gov/v3/amendment/118/hamdt/921?format=json"
+    },
+    {
+      "congress": 118,
+      "description": "An amendment numbered 1 printed in Part B of House Report 118-516 to change the new crowdfunding exemption from $75 million to $5 million.",
+      "latestAction": {
+        "actionDate": "2024-05-22",
+        "actionTime": "17:23:46",
+        "text": "On agreeing to the Casar amendment (A001) Failed by recorded vote: 204 - 209 (Roll no. 223)."
+      },
+      "number": "919",
+      "purpose": "Amendment sought to change the new crowdfunding exemption from $75 million to $5 million.",
+      "type": "HAMDT",
+      "updateDate": "2024-05-24T08:09:11Z",
+      "url": "https://api.congress.gov/v3/amendment/118/hamdt/919?format=json"
+    },
+    {
+      "congress": 118,
+      "description": "An amendment numbered 2 printed in Part B of House Report 118-516 to clarify the application of the Bank Secrecy Act to digital asset and digital commodity entities and to require a Government Accountability Office study on risks posed by centralized intermediaries that are primarily located in foreign jurisdictions without regulatory requirements similar to those of the Bank Secrecy Act.",
+      "latestAction": {
+        "actionDate": "2024-05-22",
+        "actionTime": "16:22:59",
+        "text": "On agreeing to the Pettersen amendment (A002) Agreed to by voice vote."
+      },
+      "number": "920",
+      "type": "HAMDT",
+      "updateDate": "2024-05-23T15:24:13Z",
+      "url": "https://api.congress.gov/v3/amendment/118/hamdt/920?format=json"
+    },
+    {
+      "congress": 118,
+      "description": "An amendment numbered 6 printed in Part B of House Report 118-511 to strike Section (2) lines 17-19 and strike the word \"Biden\" throughout the text.",
+      "latestAction": {
+        "actionDate": "2024-05-16",
+        "actionTime": "16:42:27",
+        "text": "On agreeing to the Houlahan amendment (A004) Failed by recorded vote: 197 - 213 (Roll no. 214)."
+      },
+      "number": "916",
+      "type": "HAMDT",
+      "updateDate": "2024-05-17T20:55:18Z",
+      "url": "https://api.congress.gov/v3/amendment/118/hamdt/916?format=json"
+    },
+    {
+      "congress": 118,
+      "description": "An amendment numbered 8 printed in Part B of House Report 118-511 to add to the findings section that it is in the best interest of law enforcement officers and the communities they serve for the administration to use longstanding authorities, including under section 212(f) of the Immigration and Nationality Act, to secure the southern border.",
+      "latestAction": {
+        "actionDate": "2024-05-16",
+        "actionTime": "15:27:28",
+        "text": "On agreeing to the Miller (IL) amendment (A006) Agreed to by voice vote."
+      },
+      "number": "918",
+      "type": "HAMDT",
+      "updateDate": "2024-05-17T13:47:03Z",
+      "url": "https://api.congress.gov/v3/amendment/118/hamdt/918?format=json"
+    },
+    {
+      "congress": 118,
+      "description": "An amendment numbered 7 printed in Part B of House Report 118-511 to require the nationality of an illegal alien to be reported on, once they have exposed a law enforcement officer to fentanyl during an encounter at the border and in the United States.",
+      "latestAction": {
+        "actionDate": "2024-05-16",
+        "actionTime": "15:23:07",
+        "text": "On agreeing to the LaLota amendment (A005) Agreed to by voice vote."
+      },
+      "number": "917",
+      "type": "HAMDT",
+      "updateDate": "2024-05-17T13:47:03Z",
+      "url": "https://api.congress.gov/v3/amendment/118/hamdt/917?format=json"
+    },
+    {
+      "congress": 118,
+      "description": "An amendment numbered 5 printed in Part B of House Report 118-511 to require the Attorney General's report to include data on how many law enforcement officers have been reassigned, and local resources reallocated, to investigate, intercept, and process as evidence fentanyl trafficked from the United States border.",
+      "latestAction": {
+        "actionDate": "2024-05-16",
+        "actionTime": "15:04:37",
+        "text": "On agreeing to the Nunn (IA) amendment (A003) Agreed to by voice vote."
+      },
+      "number": "915",
+      "type": "HAMDT",
+      "updateDate": "2024-05-17T13:47:03Z",
+      "url": "https://api.congress.gov/v3/amendment/118/hamdt/915?format=json"
+    },
+    {
+      "congress": 118,
+      "description": "An amendment numbered 4 printed in Part B of House Report 118-511 to require the Attorney General's report to include costs States had to expend on local law enforcement efforts to investigate, intercept, and process, which includes the collection, analysis, storage, and eventual destruction, fentanyl trafficked from the United States border.",
+      "latestAction": {
+        "actionDate": "2024-05-16",
+        "actionTime": "14:53:48",
+        "text": "On agreeing to the Nunn (IA) amendment (A002) Agreed to by voice vote."
+      },
+      "number": "914",
+      "type": "HAMDT",
+      "updateDate": "2024-05-17T13:47:03Z",
+      "url": "https://api.congress.gov/v3/amendment/118/hamdt/914?format=json"
+    },
+    {
+      "congress": 118,
+      "description": "An amendment numbered 3 printed in Part B of House Report 118-511 to add a provision to the required report to also include the impact that the border crisis has had on law enforcement recruitment.",
+      "latestAction": {
+        "actionDate": "2024-05-16",
+        "actionTime": "14:43:17",
+        "text": "On agreeing to the D'Esposito amendment (A001) Agreed to by voice vote."
+      },
+      "number": "913",
+      "type": "HAMDT",
+      "updateDate": "2024-05-17T13:47:02Z",
+      "url": "https://api.congress.gov/v3/amendment/118/hamdt/913?format=json"
+    },
+    {
+      "congress": 118,
+      "description": "Pursuant to the provisions of H. Res. 1227, in lieu of the amendment in the nature of a substitute recommended by the Committee on Judiciary now printed in the bill consisting of the text of Rules Committee Print 118-34 is considered adopted.",
+      "latestAction": {
+        "actionDate": "2024-05-16",
+        "text": "On agreeing to the Rules amendment (A001) Agreed to without objection."
+      },
+      "number": "912",
+      "type": "HAMDT",
+      "updateDate": "2024-05-17T08:11:12Z",
+      "url": "https://api.congress.gov/v3/amendment/118/hamdt/912?format=json"
+    },
+    {
+      "congress": 118,
+      "description": "Pursuant to the provisions of H. Res. 1227, the amendment in the nature of a substitute recommended by the Committee on Oversight and Accountability now printed in the bill is considered adopted.",
+      "latestAction": {
+        "actionDate": "2024-05-15",
+        "text": "On agreeing to the Rules amendment (A001) Agreed to without objection."
+      },
+      "number": "911",
+      "type": "HAMDT",
+      "updateDate": "2024-05-16T08:09:18Z",
+      "url": "https://api.congress.gov/v3/amendment/118/hamdt/911?format=json"
+    },
+    {
+      "congress": 118,
+      "description": "Pursuant to the provisions of H. Res. 1227, the amendment in the nature of a substitute recommended by the Committee on the Judiciary is considered adopted.",
+      "latestAction": {
+        "actionDate": "2024-05-15",
+        "text": "On agreeing to the Rules amendment (A001) Agreed to without objection."
+      },
+      "number": "910",
+      "type": "HAMDT",
+      "updateDate": "2024-05-16T08:09:18Z",
+      "url": "https://api.congress.gov/v3/amendment/118/hamdt/910?format=json"
+    },
+    {
+      "congress": 118,
+      "description": "An amendment numbered 4 printed in Part A of House Report 118-511 to require the Secretary of the Department of Homeland Security to submit an annual report to the Senate and House Judiciary Committees on the number of aliens detained in the custody of the department.",
+      "latestAction": {
+        "actionDate": "2024-05-15",
+        "actionTime": "15:07:32",
+        "text": "On agreeing to the LaLota amendment (A003) Agreed to by voice vote."
+      },
+      "number": "909",
+      "type": "HAMDT",
+      "updateDate": "2024-05-16T17:09:18Z",
+      "url": "https://api.congress.gov/v3/amendment/118/hamdt/909?format=json"
+    },
+    {
+      "congress": 118,
+      "description": "An amendment numbered 2 printed in Part A of House Report 118-511 to clarify that law enforcement includes campus police and school resource officers.",
+      "latestAction": {
+        "actionDate": "2024-05-15",
+        "actionTime": "15:01:19",
+        "text": "On agreeing to the Norman amendment (A002) Agreed to by voice vote."
+      },
+      "number": "908",
+      "type": "HAMDT",
+      "updateDate": "2024-05-16T17:09:19Z",
+      "url": "https://api.congress.gov/v3/amendment/118/hamdt/908?format=json"
+    },
+    {
+      "congress": 118,
+      "description": "An amendment numbered 1 printed in Part A of House Report 118-511 to require a GAO study on the number of illegal immigrants detained for assaulting a police officer over the past five years.",
+      "latestAction": {
+        "actionDate": "2024-05-15",
+        "actionTime": "14:53:51",
+        "text": "On agreeing to the Molinaro amendment (A001) Agreed to by voice vote."
+      },
+      "number": "907",
+      "type": "HAMDT",
+      "updateDate": "2024-05-16T17:09:19Z",
+      "url": "https://api.congress.gov/v3/amendment/118/hamdt/907?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 926,
+    "next": "https://api.congress.gov/v3/amendment/118/hamdt?offset=20&limit=20&format=json"
+  },
+  "request": {
+    "amendmentType": "hamdt",
+    "congress": "118",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

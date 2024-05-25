@@ -1,0 +1,68 @@
+{
+  "pagination": {
+    "count": 17
+  },
+  "request": {
+    "billNumber": "3076",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/117/hr/3076?format=json",
+    "congress": "117",
+    "contentType": "application/json",
+    "format": "json"
+  },
+  "subjects": {
+    "legislativeSubjects": [
+      {
+        "name": "Congressional oversight"
+      },
+      {
+        "name": "Executive agency funding and structure"
+      },
+      {
+        "name": "Government employee pay, benefits, personnel management"
+      },
+      {
+        "name": "Government information and archives"
+      },
+      {
+        "name": "Government studies and investigations"
+      },
+      {
+        "name": "Health care costs and insurance"
+      },
+      {
+        "name": "Health care coverage and access"
+      },
+      {
+        "name": "Intergovernmental relations"
+      },
+      {
+        "name": "Medicare"
+      },
+      {
+        "name": "Performance measurement"
+      },
+      {
+        "name": "Postal Regulatory Commission"
+      },
+      {
+        "name": "Postal service"
+      },
+      {
+        "name": "Public participation and lobbying"
+      },
+      {
+        "name": "Retail and wholesale trades"
+      },
+      {
+        "name": "State and local government operations"
+      },
+      {
+        "name": "U.S. Postal Service"
+      }
+    ],
+    "policyArea": {
+      "name": "Government Operations and Politics"
+    }
+  }
+}

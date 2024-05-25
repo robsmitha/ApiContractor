@@ -1,4 +1,5 @@
 ﻿using CongressDotGov.Contractor.Customization;
+using Humanizer;
 using NJsonSchema;
 using NJsonSchema.CodeGeneration.CSharp;
 
@@ -11,16 +12,16 @@ namespace CongressDotGov.Contractor.Generators
             foreach (var directoryPath in Directory.GetDirectories(Path.Combine(bin, "___generated___", "sample-json")))
             {
                 var directory = Path.GetFileName(directoryPath);
-                var generatedFilePath = Path.Combine(bin, "___generated___", "responses", directory);
+                if (targetNamespace != "*" && !directory.Equals(targetNamespace, StringComparison.InvariantCultureIgnoreCase))
+                {
+                    continue;
+                }
+
+                var parentNamespace = PascalCasePropertyNameGenerator.ConvertToPascalCase(directory).Pluralize();
+                var generatedFilePath = Path.Combine(bin, "___generated___", "responses", parentNamespace);
                 if (!Directory.Exists(generatedFilePath))
                 {
                     Directory.CreateDirectory(generatedFilePath);
-                }
-
-                var parentNamespace = PascalCasePropertyNameGenerator.UpperFirst(directory);
-                if (!parentNamespace.Equals(targetNamespace))
-                {
-                    continue;
                 }
 
                 foreach (string file in Directory.GetFiles(directoryPath, "*.json"))

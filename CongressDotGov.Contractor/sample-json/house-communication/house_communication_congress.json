@@ -1,0 +1,233 @@
+{
+  "houseCommunications": [
+    {
+      "chamber": "House",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 117,
+      "number": 2057,
+      "updateDate": "2021-09-01",
+      "url": "https://api.congress.gov/v3/house-communication/117/ec/2057?format=json"
+    },
+    {
+      "chamber": "House",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 117,
+      "number": 3089,
+      "updateDate": "2022-01-12",
+      "url": "https://api.congress.gov/v3/house-communication/117/ec/3089?format=json"
+    },
+    {
+      "chamber": "House",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 117,
+      "number": 2058,
+      "updateDate": "2021-09-01",
+      "url": "https://api.congress.gov/v3/house-communication/117/ec/2058?format=json"
+    },
+    {
+      "chamber": "House",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 117,
+      "number": 2059,
+      "updateDate": "2021-09-01",
+      "url": "https://api.congress.gov/v3/house-communication/117/ec/2059?format=json"
+    },
+    {
+      "chamber": "House",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 117,
+      "number": 2060,
+      "updateDate": "2021-09-01",
+      "url": "https://api.congress.gov/v3/house-communication/117/ec/2060?format=json"
+    },
+    {
+      "chamber": "House",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 117,
+      "number": 3119,
+      "updateDate": "2022-01-14",
+      "url": "https://api.congress.gov/v3/house-communication/117/ec/3119?format=json"
+    },
+    {
+      "chamber": "House",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 117,
+      "number": 3273,
+      "updateDate": "2022-01-29",
+      "url": "https://api.congress.gov/v3/house-communication/117/ec/3273?format=json"
+    },
+    {
+      "chamber": "House",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 117,
+      "number": 3120,
+      "updateDate": "2022-01-14",
+      "url": "https://api.congress.gov/v3/house-communication/117/ec/3120?format=json"
+    },
+    {
+      "chamber": "House",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 117,
+      "number": 1994,
+      "updateDate": "2021-08-21",
+      "url": "https://api.congress.gov/v3/house-communication/117/ec/1994?format=json"
+    },
+    {
+      "chamber": "House",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 117,
+      "number": 3121,
+      "updateDate": "2022-01-14",
+      "url": "https://api.congress.gov/v3/house-communication/117/ec/3121?format=json"
+    },
+    {
+      "chamber": "House",
+      "communicationType": {
+        "code": "PT",
+        "name": "Petition"
+      },
+      "congress": 117,
+      "number": 47,
+      "updateDate": "2021-08-24",
+      "url": "https://api.congress.gov/v3/house-communication/117/pt/47?format=json"
+    },
+    {
+      "chamber": "House",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 117,
+      "number": 2696,
+      "updateDate": "2021-11-20",
+      "url": "https://api.congress.gov/v3/house-communication/117/ec/2696?format=json"
+    },
+    {
+      "chamber": "House",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 117,
+      "number": 3386,
+      "updateDate": "2022-02-09",
+      "url": "https://api.congress.gov/v3/house-communication/117/ec/3386?format=json"
+    },
+    {
+      "chamber": "House",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 117,
+      "number": 3409,
+      "updateDate": "2022-02-12",
+      "url": "https://api.congress.gov/v3/house-communication/117/ec/3409?format=json"
+    },
+    {
+      "chamber": "House",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 117,
+      "number": 2061,
+      "updateDate": "2021-09-01",
+      "url": "https://api.congress.gov/v3/house-communication/117/ec/2061?format=json"
+    },
+    {
+      "chamber": "House",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 117,
+      "number": 2098,
+      "updateDate": "2021-09-04",
+      "url": "https://api.congress.gov/v3/house-communication/117/ec/2098?format=json"
+    },
+    {
+      "chamber": "House",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 117,
+      "number": 5099,
+      "updateDate": "2022-08-20",
+      "url": "https://api.congress.gov/v3/house-communication/117/ec/5099?format=json"
+    },
+    {
+      "chamber": "House",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 117,
+      "number": 5100,
+      "updateDate": "2022-08-20",
+      "url": "https://api.congress.gov/v3/house-communication/117/ec/5100?format=json"
+    },
+    {
+      "chamber": "House",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 117,
+      "number": 5103,
+      "updateDate": "2022-08-20",
+      "url": "https://api.congress.gov/v3/house-communication/117/ec/5103?format=json"
+    },
+    {
+      "chamber": "House",
+      "communicationType": {
+        "code": "EC",
+        "name": "Executive Communication"
+      },
+      "congress": 117,
+      "number": 5102,
+      "updateDate": "2022-08-20",
+      "url": "https://api.congress.gov/v3/house-communication/117/ec/5102?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 6795,
+    "next": "https://api.congress.gov/v3/house-communication/117?offset=20&limit=20&format=json"
+  },
+  "request": {
+    "congress": "117",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

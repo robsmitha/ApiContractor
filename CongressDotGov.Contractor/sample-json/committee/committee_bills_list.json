@@ -1,0 +1,199 @@
+{
+  "committee-bills": {
+    "bills": [
+      {
+        "actionDate": "2012-04-19T13:01:00Z",
+        "congress": 112,
+        "number": "117",
+        "relationshipType": "Referred to",
+        "type": "HCONRES",
+        "updateDate": "2019-02-17T21:10:13Z",
+        "url": "https://api.congress.gov/v3/bill/112/hconres/117?format=json"
+      },
+      {
+        "actionDate": "2012-02-08T14:51:00Z",
+        "congress": 112,
+        "number": "543",
+        "relationshipType": "Referred to",
+        "type": "HRES",
+        "updateDate": "2019-02-17T21:05:25Z",
+        "url": "https://api.congress.gov/v3/bill/112/hres/543?format=json"
+      },
+      {
+        "actionDate": "2012-02-08T14:51:00Z",
+        "congress": 112,
+        "number": "543",
+        "relationshipType": "In Committee",
+        "type": "HRES",
+        "updateDate": "2019-02-17T21:05:25Z",
+        "url": "https://api.congress.gov/v3/bill/112/hres/543?format=json"
+      },
+      {
+        "actionDate": "2012-02-08T14:52:35Z",
+        "congress": 112,
+        "number": "3986",
+        "relationshipType": "Referred to",
+        "type": "HR",
+        "updateDate": "2019-02-17T21:05:29Z",
+        "url": "https://api.congress.gov/v3/bill/112/hr/3986?format=json"
+      },
+      {
+        "actionDate": "2012-02-08T14:52:35Z",
+        "congress": 112,
+        "number": "3986",
+        "relationshipType": "In Committee",
+        "type": "HR",
+        "updateDate": "2019-02-17T21:05:29Z",
+        "url": "https://api.congress.gov/v3/bill/112/hr/3986?format=json"
+      },
+      {
+        "actionDate": "2012-04-19T13:05:05Z",
+        "congress": 112,
+        "number": "4406",
+        "relationshipType": "Referred to",
+        "type": "HR",
+        "updateDate": "2019-02-17T21:10:21Z",
+        "url": "https://api.congress.gov/v3/bill/112/hr/4406?format=json"
+      },
+      {
+        "actionDate": "2012-04-19T13:05:05Z",
+        "congress": 112,
+        "number": "4406",
+        "relationshipType": "In Committee",
+        "type": "HR",
+        "updateDate": "2019-02-17T21:10:21Z",
+        "url": "https://api.congress.gov/v3/bill/112/hr/4406?format=json"
+      },
+      {
+        "actionDate": "2012-02-09T14:01:00Z",
+        "congress": 112,
+        "number": "4000",
+        "relationshipType": "In Committee",
+        "type": "HR",
+        "updateDate": "2019-02-17T21:05:31Z",
+        "url": "https://api.congress.gov/v3/bill/112/hr/4000?format=json"
+      },
+      {
+        "actionDate": "2012-02-09T14:01:00Z",
+        "congress": 112,
+        "number": "4000",
+        "relationshipType": "Referred to",
+        "type": "HR",
+        "updateDate": "2019-02-17T21:05:31Z",
+        "url": "https://api.congress.gov/v3/bill/112/hr/4000?format=json"
+      },
+      {
+        "actionDate": "2012-03-19T20:01:35Z",
+        "congress": 112,
+        "number": "4211",
+        "relationshipType": "In Committee",
+        "type": "HR",
+        "updateDate": "2019-02-17T21:07:52Z",
+        "url": "https://api.congress.gov/v3/bill/112/hr/4211?format=json"
+      },
+      {
+        "actionDate": "2012-03-19T20:01:35Z",
+        "congress": 112,
+        "number": "4211",
+        "relationshipType": "Referred to",
+        "type": "HR",
+        "updateDate": "2019-02-17T21:07:53Z",
+        "url": "https://api.congress.gov/v3/bill/112/hr/4211?format=json"
+      },
+      {
+        "actionDate": "2012-03-20T14:03:00Z",
+        "congress": 112,
+        "number": "592",
+        "relationshipType": "In Committee",
+        "type": "HRES",
+        "updateDate": "2019-02-17T21:07:59Z",
+        "url": "https://api.congress.gov/v3/bill/112/hres/592?format=json"
+      },
+      {
+        "actionDate": "2012-03-20T14:03:00Z",
+        "congress": 112,
+        "number": "592",
+        "relationshipType": "Referred to",
+        "type": "HRES",
+        "updateDate": "2019-02-17T21:07:59Z",
+        "url": "https://api.congress.gov/v3/bill/112/hres/592?format=json"
+      },
+      {
+        "actionDate": "2012-02-10T03:06:00Z",
+        "congress": 112,
+        "number": "3864",
+        "relationshipType": "Discharged from",
+        "type": "HR",
+        "updateDate": "2019-02-17T21:05:43Z",
+        "url": "https://api.congress.gov/v3/bill/112/hr/3864?format=json"
+      },
+      {
+        "actionDate": "2012-03-21T14:00:13Z",
+        "congress": 112,
+        "number": "14",
+        "relationshipType": "Referred to",
+        "type": "HR",
+        "updateDate": "2019-02-17T21:08:02Z",
+        "url": "https://api.congress.gov/v3/bill/112/hr/14?format=json"
+      },
+      {
+        "actionDate": "2012-03-21T14:00:13Z",
+        "congress": 112,
+        "number": "14",
+        "relationshipType": "In Committee",
+        "type": "HR",
+        "updateDate": "2019-02-17T21:08:02Z",
+        "url": "https://api.congress.gov/v3/bill/112/hr/14?format=json"
+      },
+      {
+        "actionDate": "2012-03-21T14:01:20Z",
+        "congress": 112,
+        "number": "4236",
+        "relationshipType": "Referred to",
+        "type": "HR",
+        "updateDate": "2019-02-17T21:08:04Z",
+        "url": "https://api.congress.gov/v3/bill/112/hr/4236?format=json"
+      },
+      {
+        "actionDate": "2012-03-21T14:01:20Z",
+        "congress": 112,
+        "number": "4236",
+        "relationshipType": "In Committee",
+        "type": "HR",
+        "updateDate": "2019-02-17T21:08:04Z",
+        "url": "https://api.congress.gov/v3/bill/112/hr/4236?format=json"
+      },
+      {
+        "actionDate": "2012-04-24T16:01:15Z",
+        "congress": 112,
+        "number": "118",
+        "relationshipType": "Referred to",
+        "type": "HCONRES",
+        "updateDate": "2019-02-17T21:10:46Z",
+        "url": "https://api.congress.gov/v3/bill/112/hconres/118?format=json"
+      },
+      {
+        "actionDate": "2012-02-14T00:20:03Z",
+        "congress": 112,
+        "number": "7",
+        "relationshipType": "Reported by",
+        "type": "HR",
+        "updateDate": "2019-02-17T21:05:52Z",
+        "url": "https://api.congress.gov/v3/bill/112/hr/7?format=json"
+      }
+    ],
+    "count": 26328,
+    "url": "https://api.congress.gov/v3/committee/house/hspw00/bills?format=json"
+  },
+  "pagination": {
+    "count": 26328,
+    "next": "https://api.congress.gov/v3/committee/house/hspw00/bills?offset=20&limit=20&format=json"
+  },
+  "request": {
+    "chamber": "house",
+    "committeeUrl": "https://api.congress.gov/v3/committee/house/hspw00?format=json",
+    "contentType": "application/json",
+    "format": "json",
+    "systemCode": "hspw00"
+  }
+}

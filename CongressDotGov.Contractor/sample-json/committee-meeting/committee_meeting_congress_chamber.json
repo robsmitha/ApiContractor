@@ -1,0 +1,154 @@
+{
+  "committeeMeetings": [
+    {
+      "chamber": "House",
+      "congress": 117,
+      "eventId": "112492",
+      "updateDate": "2022-01-01 05:19:46+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/117/house/112492?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "eventId": "113935",
+      "updateDate": "2024-05-17 22:07:39+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/117/house/113935?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "eventId": "114751",
+      "updateDate": "2024-05-17 23:15:23+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/117/house/114751?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "eventId": "114752",
+      "updateDate": "2024-05-17 23:15:24+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/117/house/114752?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "eventId": "114755",
+      "updateDate": "2024-05-17 23:15:30+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/117/house/114755?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "eventId": "114756",
+      "updateDate": "2024-05-17 23:15:34+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/117/house/114756?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "eventId": "114775",
+      "updateDate": "2024-05-17 23:16:15+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/117/house/114775?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "eventId": "114761",
+      "updateDate": "2022-10-04 22:04:12+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/117/house/114761?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "eventId": "114151",
+      "updateDate": "2024-05-17 22:34:50+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/117/house/114151?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "eventId": "114776",
+      "updateDate": "2024-05-17 23:16:27+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/117/house/114776?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "eventId": "114762",
+      "updateDate": "2022-11-01 04:11:58+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/117/house/114762?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "eventId": "114763",
+      "updateDate": "2022-10-04 22:04:13+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/117/house/114763?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "eventId": "114780",
+      "updateDate": "2024-05-17 23:16:35+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/117/house/114780?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "eventId": "114754",
+      "updateDate": "2024-05-17 23:15:29+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/117/house/114754?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "eventId": "114772",
+      "updateDate": "2022-05-12 04:11:39+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/117/house/114772?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "eventId": "112495",
+      "updateDate": "2022-01-01 05:19:56+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/117/house/112495?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "eventId": "112744",
+      "updateDate": "2022-01-01 05:23:16+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/117/house/112744?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "eventId": "112497",
+      "updateDate": "2022-02-28 15:49:26+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/117/house/112497?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "eventId": "114108",
+      "updateDate": "2024-05-17 22:32:15+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/117/house/114108?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "eventId": "113916",
+      "updateDate": "2022-01-01 05:26:33+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/117/house/113916?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 2041,
+    "next": "https://api.congress.gov/v3/committee-meeting/117/house?offset=20&limit=20&format=json"
+  },
+  "request": {
+    "chamber": "house",
+    "congress": "117",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

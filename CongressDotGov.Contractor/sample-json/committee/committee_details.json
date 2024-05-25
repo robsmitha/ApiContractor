@@ -1,0 +1,129 @@
+{
+  "committee": {
+    "bills": {
+      "count": 26328,
+      "url": "https://api.congress.gov/v3/committee/house/hspw00/bills?format=json"
+    },
+    "communications": {
+      "count": 7842,
+      "url": "https://api.congress.gov/v3/committee/house/hspw00/house-communication?format=json"
+    },
+    "history": [
+      {
+        "libraryOfCongressName": "Transportation and Infrastructure",
+        "locLinkedDataId": "no95024546",
+        "officialName": "Committee on Transportation and Infrastructure",
+        "startDate": "1995-01-04T05:00:00Z",
+        "updateDate": "2024-02-07T15:57:13Z"
+      },
+      {
+        "endDate": "1995-01-03T05:00:00Z",
+        "libraryOfCongressName": "Public Works and Transportation",
+        "locLinkedDataId": "n81026412",
+        "officialName": "Committee on Public Works and Transportation",
+        "startDate": "1975-01-01T05:00:00Z",
+        "updateDate": "2024-03-19T15:28:50Z"
+      },
+      {
+        "endDate": "1974-12-31T05:00:00Z",
+        "libraryOfCongressName": "Public Works",
+        "locLinkedDataId": "n81120589",
+        "naraId": "10532985",
+        "officialName": "Committee on Public Works",
+        "startDate": "1946-08-02T04:00:00Z",
+        "updateDate": "2024-04-17T17:32:02Z"
+      }
+    ],
+    "isCurrent": true,
+    "reports": {
+      "count": 1425,
+      "url": "https://api.congress.gov/v3/committee/house/hspw00/reports?format=json"
+    },
+    "subcommittees": [
+      {
+        "name": "Investigations and Oversight Subcommittee",
+        "systemCode": "hspw01",
+        "url": "https://api.congress.gov/v3/committee/house/hspw01?format=json"
+      },
+      {
+        "name": "Public Buildings and Grounds Subcommittee",
+        "systemCode": "hspw04",
+        "url": "https://api.congress.gov/v3/committee/house/hspw04?format=json"
+      },
+      {
+        "name": "Economic Development Subcommittee",
+        "systemCode": "hspw06",
+        "url": "https://api.congress.gov/v3/committee/house/hspw06?format=json"
+      },
+      {
+        "name": "Economic Development, Public Buildings, Hazardous Materials and Pipeline Transportation Subcommittee",
+        "systemCode": "hspw08",
+        "url": "https://api.congress.gov/v3/committee/house/hspw08?format=json"
+      },
+      {
+        "name": "Railroads Subcommittee",
+        "systemCode": "hspw09",
+        "url": "https://api.congress.gov/v3/committee/house/hspw09?format=json"
+      },
+      {
+        "name": "Ground Transportation Subcommittee",
+        "systemCode": "hspw10",
+        "url": "https://api.congress.gov/v3/committee/house/hspw10?format=json"
+      },
+      {
+        "name": "Aviation Subcommittee",
+        "systemCode": "hspw05",
+        "url": "https://api.congress.gov/v3/committee/house/hspw05?format=json"
+      },
+      {
+        "name": "Economic Development, Public Buildings, and Emergency Management Subcommittee",
+        "systemCode": "hspw13",
+        "url": "https://api.congress.gov/v3/committee/house/hspw13?format=json"
+      },
+      {
+        "name": "Highways and Transit Subcommittee",
+        "systemCode": "hspw12",
+        "url": "https://api.congress.gov/v3/committee/house/hspw12?format=json"
+      },
+      {
+        "name": "Railroads, Pipelines, and Hazardous Materials Subcommittee",
+        "systemCode": "hspw14",
+        "url": "https://api.congress.gov/v3/committee/house/hspw14?format=json"
+      },
+      {
+        "name": "Water Resources and Environment Subcommittee",
+        "systemCode": "hspw02",
+        "url": "https://api.congress.gov/v3/committee/house/hspw02?format=json"
+      },
+      {
+        "name": "Public-Private Partnerships Subcommittee",
+        "systemCode": "hspw33",
+        "url": "https://api.congress.gov/v3/committee/house/hspw33?format=json"
+      },
+      {
+        "name": "Surface Transportation Subcommittee",
+        "systemCode": "hspw03",
+        "url": "https://api.congress.gov/v3/committee/house/hspw03?format=json"
+      },
+      {
+        "name": "Oversight, Investigations and Emergency Management Subcommittee",
+        "systemCode": "hspw11",
+        "url": "https://api.congress.gov/v3/committee/house/hspw11?format=json"
+      },
+      {
+        "name": "Coast Guard and Maritime Transportation Subcommittee",
+        "systemCode": "hspw07",
+        "url": "https://api.congress.gov/v3/committee/house/hspw07?format=json"
+      }
+    ],
+    "systemCode": "hspw00",
+    "type": "Standing",
+    "updateDate": "2020-02-04T00:07:37Z"
+  },
+  "request": {
+    "chamber": "house",
+    "contentType": "application/json",
+    "format": "json",
+    "systemCode": "hspw00"
+  }
+}

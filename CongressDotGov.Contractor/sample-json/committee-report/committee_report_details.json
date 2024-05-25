@@ -1,0 +1,44 @@
+{
+  "committeeReports": [
+    {
+      "associatedBill": [
+        {
+          "congress": 117,
+          "number": "314",
+          "type": "S",
+          "url": "https://api.congress.gov/v3/bill/117/s/314?format=json"
+        }
+      ],
+      "chamber": "House",
+      "citation": "H. Rept. 117-617",
+      "committees": [
+        {
+          "name": "Natural Resources Committee",
+          "systemCode": "hsii00",
+          "url": "https://api.congress.gov/v3/committee/house/hsii00?format=json"
+        }
+      ],
+      "congress": 117,
+      "isConferenceReport": false,
+      "issueDate": "2022-12-12T05:00:00Z",
+      "number": 617,
+      "part": 1,
+      "reportType": "H.Rept.",
+      "sessionNumber": 2,
+      "text": {
+        "count": 2,
+        "url": "https://api.congress.gov/v3/committee-report/117/hrpt/617/text?format=json"
+      },
+      "title": "KLAMATH TRIBE JUDGMENT FUND REPEAL ACT",
+      "type": "HRPT",
+      "updateDate": "2024-04-17T23:45:21Z"
+    }
+  ],
+  "request": {
+    "congress": "117",
+    "contentType": "application/json",
+    "format": "json",
+    "reportNumber": "617",
+    "reportType": "hrpt"
+  }
+}

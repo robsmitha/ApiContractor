@@ -60,7 +60,7 @@ namespace CongressDotGov.Contractor.Customization
 
             foreach (char c in input)
             {
-                if (c == '_')
+                if (c == '_' || c == '-')
                 {
                     capitalizeNext = true;
                 }

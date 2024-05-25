@@ -1,0 +1,44 @@
+{
+  "issue": {
+    "congress": 116,
+    "fullIssue": {
+      "articles": {
+        "count": 67,
+        "url": "https://api.congress.gov/v3/daily-congressional-record/166/153/articles?format=json"
+      },
+      "entireIssue": [
+        {
+          "part": "1",
+          "type": "Formatted Text",
+          "url": "https://www.congress.gov/116/crec/2020/09/04/CREC-2020-09-04-pt1-PgD758.htm"
+        }
+      ],
+      "sections": [
+        {
+          "endPage": "E820",
+          "name": "Extensions of Remarks Section",
+          "startPage": "E815",
+          "text": [
+            {
+              "part": "1",
+              "type": "PDF",
+              "url": "https://www.congress.gov/116/crec/2020/09/04/CREC-2020-09-04-extensions.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    "issueDate": "2020-09-04T04:00:00Z",
+    "issueNumber": "153",
+    "sessionNumber": 2,
+    "updateDate": "2020-09-05T09:45:08Z",
+    "url": "https://api.congress.gov/v3/daily-congressional-record/166/153?format=json",
+    "volumeNumber": 166
+  },
+  "request": {
+    "contentType": "application/json",
+    "format": "json",
+    "issueNumber": "153",
+    "volumeNumber": "166"
+  }
+}

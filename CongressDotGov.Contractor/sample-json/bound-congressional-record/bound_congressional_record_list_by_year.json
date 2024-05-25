@@ -1,0 +1,173 @@
+{
+  "boundCongressionalRecord": [
+    {
+      "congress": 101,
+      "date": "1990-02-28",
+      "sessionNumber": 2,
+      "updateDate": "2024-04-04",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1990/2/28?format=json",
+      "volumeNumber": 136
+    },
+    {
+      "congress": 101,
+      "date": "1990-03-19",
+      "sessionNumber": 2,
+      "updateDate": "2024-04-04",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1990/3/19?format=json",
+      "volumeNumber": 136
+    },
+    {
+      "congress": 101,
+      "date": "1990-03-19",
+      "sessionNumber": 2,
+      "updateDate": "2024-04-04",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1990/3/19?format=json",
+      "volumeNumber": 136
+    },
+    {
+      "congress": 101,
+      "date": "1990-02-06",
+      "sessionNumber": 2,
+      "updateDate": "2024-04-17",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1990/2/6?format=json",
+      "volumeNumber": 136
+    },
+    {
+      "congress": 101,
+      "date": "1990-02-06",
+      "sessionNumber": 2,
+      "updateDate": "2024-04-17",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1990/2/6?format=json",
+      "volumeNumber": 136
+    },
+    {
+      "congress": 101,
+      "date": "1990-02-05",
+      "sessionNumber": 2,
+      "updateDate": "2024-04-17",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1990/2/5?format=json",
+      "volumeNumber": 136
+    },
+    {
+      "congress": 101,
+      "date": "1990-02-05",
+      "sessionNumber": 2,
+      "updateDate": "2024-04-17",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1990/2/5?format=json",
+      "volumeNumber": 136
+    },
+    {
+      "congress": 101,
+      "date": "1990-02-05",
+      "sessionNumber": 2,
+      "updateDate": "2024-04-17",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1990/2/5?format=json",
+      "volumeNumber": 136
+    },
+    {
+      "congress": 101,
+      "date": "1990-02-01",
+      "sessionNumber": 2,
+      "updateDate": "2024-04-17",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1990/2/1?format=json",
+      "volumeNumber": 136
+    },
+    {
+      "congress": 101,
+      "date": "1990-02-01",
+      "sessionNumber": 2,
+      "updateDate": "2024-04-17",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1990/2/1?format=json",
+      "volumeNumber": 136
+    },
+    {
+      "congress": 101,
+      "date": "1990-02-01",
+      "sessionNumber": 2,
+      "updateDate": "2024-04-17",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1990/2/1?format=json",
+      "volumeNumber": 136
+    },
+    {
+      "congress": 101,
+      "date": "1990-02-01",
+      "sessionNumber": 2,
+      "updateDate": "2024-04-17",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1990/2/1?format=json",
+      "volumeNumber": 136
+    },
+    {
+      "congress": 101,
+      "date": "1990-01-31",
+      "sessionNumber": 2,
+      "updateDate": "2024-04-17",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1990/1/31?format=json",
+      "volumeNumber": 136
+    },
+    {
+      "congress": 101,
+      "date": "1990-01-31",
+      "sessionNumber": 2,
+      "updateDate": "2024-04-17",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1990/1/31?format=json",
+      "volumeNumber": 136
+    },
+    {
+      "congress": 101,
+      "date": "1990-01-31",
+      "sessionNumber": 2,
+      "updateDate": "2024-04-17",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1990/1/31?format=json",
+      "volumeNumber": 136
+    },
+    {
+      "congress": 101,
+      "date": "1990-02-05",
+      "sessionNumber": 2,
+      "updateDate": "2024-04-17",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1990/2/5?format=json",
+      "volumeNumber": 136
+    },
+    {
+      "congress": 101,
+      "date": "1990-06-18",
+      "sessionNumber": 2,
+      "updateDate": "2024-04-17",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1990/6/18?format=json",
+      "volumeNumber": 136
+    },
+    {
+      "congress": 101,
+      "date": "1990-06-18",
+      "sessionNumber": 2,
+      "updateDate": "2024-04-17",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1990/6/18?format=json",
+      "volumeNumber": 136
+    },
+    {
+      "congress": 101,
+      "date": "1990-06-18",
+      "sessionNumber": 2,
+      "updateDate": "2024-04-17",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1990/6/18?format=json",
+      "volumeNumber": 136
+    },
+    {
+      "congress": 101,
+      "date": "1990-06-14",
+      "sessionNumber": 2,
+      "updateDate": "2024-04-17",
+      "url": "https://api.congress.gov/v3/bound-congressional-record/1990/6/14?format=json",
+      "volumeNumber": 136
+    }
+  ],
+  "pagination": {
+    "count": 712,
+    "next": "https://api.congress.gov/v3/bound-congressional-record/1990?offset=20&limit=20&format=json"
+  },
+  "request": {
+    "contentType": "application/json",
+    "format": "json",
+    "year": "1990"
+  }
+}

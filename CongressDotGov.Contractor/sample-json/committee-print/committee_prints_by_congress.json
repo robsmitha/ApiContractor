@@ -1,0 +1,153 @@
+{
+  "committeePrints": [
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 48144,
+      "updateDate": "2022-08-01 21:19:33+00:00",
+      "url": "https://api.congress.gov/v3/committee-print/117/house/48144?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 48031,
+      "updateDate": "2022-10-19 21:15:20+00:00",
+      "url": "https://api.congress.gov/v3/committee-print/117/house/48031?format=json"
+    },
+    {
+      "chamber": "Senate",
+      "congress": 117,
+      "jacketNumber": 48018,
+      "updateDate": "2022-09-09 21:17:33+00:00",
+      "url": "https://api.congress.gov/v3/committee-print/117/senate/48018?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 48032,
+      "updateDate": "2022-10-19 21:15:19+00:00",
+      "url": "https://api.congress.gov/v3/committee-print/117/house/48032?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 48033,
+      "updateDate": "2022-10-19 21:15:22+00:00",
+      "url": "https://api.congress.gov/v3/committee-print/117/house/48033?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 48034,
+      "updateDate": "2022-10-19 21:15:23+00:00",
+      "url": "https://api.congress.gov/v3/committee-print/117/house/48034?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 48035,
+      "updateDate": "2022-10-19 21:15:25+00:00",
+      "url": "https://api.congress.gov/v3/committee-print/117/house/48035?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 48069,
+      "updateDate": "2022-10-19 21:15:26+00:00",
+      "url": "https://api.congress.gov/v3/committee-print/117/house/48069?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 48143,
+      "updateDate": "2022-12-09 22:15:22+00:00",
+      "url": "https://api.congress.gov/v3/committee-print/117/house/48143?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 76324,
+      "updateDate": "2022-01-29 01:46:55+00:00",
+      "url": "https://api.congress.gov/v3/committee-print/117/house/76324?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 47973,
+      "updateDate": "2022-07-28 17:59:36+00:00",
+      "url": "https://api.congress.gov/v3/committee-print/117/house/47973?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 47972,
+      "updateDate": "2022-07-28 17:59:35+00:00",
+      "url": "https://api.congress.gov/v3/committee-print/117/house/47972?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 47974,
+      "updateDate": "2022-07-28 17:59:37+00:00",
+      "url": "https://api.congress.gov/v3/committee-print/117/house/47974?format=json"
+    },
+    {
+      "chamber": "Senate",
+      "congress": 117,
+      "jacketNumber": 45283,
+      "updateDate": "2022-10-03 21:15:32+00:00",
+      "url": "https://api.congress.gov/v3/committee-print/117/senate/45283?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 46621,
+      "updateDate": "2022-02-10 15:24:47+00:00",
+      "url": "https://api.congress.gov/v3/committee-print/117/house/46621?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 47975,
+      "updateDate": "2022-07-28 17:59:38+00:00",
+      "url": "https://api.congress.gov/v3/committee-print/117/house/47975?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 47976,
+      "updateDate": "2022-07-28 17:59:39+00:00",
+      "url": "https://api.congress.gov/v3/committee-print/117/house/47976?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 48139,
+      "updateDate": "2022-08-02 21:20:49+00:00",
+      "url": "https://api.congress.gov/v3/committee-print/117/house/48139?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 47884,
+      "updateDate": "2022-07-28 17:59:40+00:00",
+      "url": "https://api.congress.gov/v3/committee-print/117/house/47884?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 117,
+      "jacketNumber": 47832,
+      "updateDate": "2022-07-19 21:22:11+00:00",
+      "url": "https://api.congress.gov/v3/committee-print/117/house/47832?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 155,
+    "next": "https://api.congress.gov/v3/committee-print/117?offset=20&limit=20&format=json"
+  },
+  "request": {
+    "congress": "117",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

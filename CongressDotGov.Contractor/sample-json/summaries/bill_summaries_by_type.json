@@ -1,0 +1,133 @@
+{
+  "pagination": {
+    "count": 6
+  },
+  "request": {
+    "billType": "hr",
+    "congress": "118",
+    "contentType": "application/json",
+    "format": "json"
+  },
+  "summaries": [
+    {
+      "actionDate": "2024-01-12",
+      "actionDesc": "Introduced in House",
+      "bill": {
+        "congress": 118,
+        "number": "6989",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Blue Ridge Fire Safety Act",
+        "type": "HR",
+        "updateDateIncludingText": "2024-05-23T19:41:52Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6989?format=json"
+      },
+      "currentChamber": "House",
+      "currentChamberCode": "H",
+      "lastSummaryUpdateDate": "2024-05-18T01:20:58Z",
+      "text": "<html><body bgcolor=\"#FFFFFF\"><p><b>Blue Ridge Fire Safety Act</b></p> <p>This bill requires the National Park Service to issue at least one permit for emergency rights-of-way to owners and lessees of lands adjacent to the Blue Ridge Parkway, in North Carolina and Virginia.</p> <p></p></body></html>",
+      "updateDate": "2024-05-23T19:41:52Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2024-01-16",
+      "actionDesc": "Introduced in House",
+      "bill": {
+        "congress": 118,
+        "number": "7001",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Wabeno Economic Development Act",
+        "type": "HR",
+        "updateDateIncludingText": "2024-05-23T15:59:25Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7001?format=json"
+      },
+      "currentChamber": "House",
+      "currentChamberCode": "H",
+      "lastSummaryUpdateDate": "2024-05-18T01:20:59Z",
+      "text": "<html><body bgcolor=\"#FFFFFF\"><p><b>Wabeno Economic Development Act</b></p> <p>This bill requires the Forest Service to convey approximately 14 acres of federal land in the Chequamegon-Nicolet National Forest, Wisconsin, to Tony's Wabeno Redi-Mix, LLC, upon receiving an offer to buy the land for market value. </p> <p>The Forest Service must complete an appraisal to determine the market value of the land, and the offer must be received no later than 180 days after approval for such appraisal. Tony's Wabeno Redi-Mix, LLC, shall pay an amount equal to the market value of the land and all associated costs as a condition of conveyance. <br/></p> <p> </p></body></html>",
+      "updateDate": "2024-05-23T15:59:25Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2023-07-17",
+      "actionDesc": "Introduced in House",
+      "bill": {
+        "congress": 118,
+        "number": "4687",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "To require the Director of the Court Services and Offender Supervision Agency for the District of Columbia and the Director of the Pretrial Services Agency for the District of Columbia to reside in the District of Columbia.",
+        "type": "HR",
+        "updateDateIncludingText": "2024-05-23T14:49:23Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/4687?format=json"
+      },
+      "currentChamber": "House",
+      "currentChamberCode": "H",
+      "lastSummaryUpdateDate": "2024-05-23T14:45:03Z",
+      "text": "<p>This bill requires the director of the District of Columbia (DC) Pretrial Services Agency and the director of the DC Court Services and Offender Supervision Agency to reside in DC. The requirement applies to each individual appointed to a covered position on or after the bill's enactment date.&nbsp;</p><!--tinycomments|2.1|data:application/json;base64,eyJtY2UtY29udmVyc2F0aW9uXzcyNDU3ODkzNDIxNzE2NDc1MjU1MTg3Ijp7InVpZCI6Im1jZS1jb252ZXJzYXRpb25fNzI0NTc4OTM0MjE3MTY0NzUyNTUxODciLCJjb21tZW50cyI6W3sidWlkIjoibWNlLWNvbnZlcnNhdGlvbl83MjQ1Nzg5MzQyMTcxNjQ3NTI1NTE4NyIsImF1dGhvciI6ImNpc2VuYmVyZ0BsaWIubG9jLmdvdiIsImF1dGhvck5hbWUiOiJjaXNlbmJlcmdAbGliLmxvYy5nb3YiLCJjb250ZW50IjoiSSBjYXBpdGFsaXplZCB0aGUgbmFtZXMgb2YgdGhlIGFnZW5jaWVzIGFuZCB1c2VkIHRoZSBEQyBhYmJyZXZpYXRpb24gYXQgdGhlIGVuZCBvZiB0aGUgZmlyc3Qgc2VudGVuY2UgYmVjYXVzZSBpdCdzIGRlZmluZWQgYXQgdGhlIGJlZ2lubmluZyBvZiB0aGUgc2VudGVuY2UuICIsImNyZWF0ZWRBdCI6IjIwMjQtMDUtMjNUMTQ6NDA6NTUuMTg2WiIsIm1vZGlmaWVkQXQiOiIyMDI0LTA1LTIzVDE0OjQwOjU1LjE4NloifV19fQ==-->",
+      "updateDate": "2024-05-23T14:49:23Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2024-01-16",
+      "actionDesc": "Introduced in House",
+      "bill": {
+        "congress": 118,
+        "number": "6994",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Restoring Our Unopened Trails for Enjoyment and Safety Act",
+        "type": "HR",
+        "updateDateIncludingText": "2024-05-23T14:27:22Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6994?format=json"
+      },
+      "currentChamber": "House",
+      "currentChamberCode": "H",
+      "lastSummaryUpdateDate": "2024-05-18T01:20:59Z",
+      "text": "<html><body bgcolor=\"#FFFFFF\"><p><strong>Restoring Our Unopened Trails for Enjoyment and Safety Act or the ROUTES Act</strong></p> <p>This bill requires the reopening of certain recreation sites closed due to a natural disaster.</p> <p>In the case of a recreation site that is fully or partially closed due to damage caused by a natural disaster (including certain standing trees that present a visible hazard), the Department of the Interior (with respect to Interior recreational lands) or the Department of Agriculture (with respect to National Forest System lands) must reopen the site not later than two years after the date on which the disaster ends.</p> <p>The bill categorically excludes specified activities from the preparation of an environmental assessment or an environmental impact statement where the primary purpose of the activity is, consistent with the applicable management plan, to</p> <ul> <li>repair and restore recreation sites damaged by a natural disaster,</li> <li>remove hazard trees for the purpose of public safety or improving access,</li> <li>mitigate and reduce soil erosion impacting a recreation site,</li> <li>restore drainage patterns to support a recreation site, or</li> <li>any combination of these purposes.</li> </ul> <p>The bill provides for emergency hazard tree removal. </p> <p>Interior or Agriculture must report to Congress and make the report publicly available.</p></body></html>",
+      "updateDate": "2024-05-23T14:27:22Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2024-01-11",
+      "actionDesc": "Introduced in House",
+      "bill": {
+        "congress": 118,
+        "number": "6957",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Debt-to-GDP Transparency and Stabilization Act",
+        "type": "HR",
+        "updateDateIncludingText": "2024-05-23T14:16:06Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/6957?format=json"
+      },
+      "currentChamber": "House",
+      "currentChamberCode": "H",
+      "lastSummaryUpdateDate": "2024-05-23T14:15:26Z",
+      "text": "<p><strong>Debt-to-GDP Transparency and Stabilization Act</strong></p><p>This bill requires the President's annual budget and congressional budget resolutions to include the ratio of the public debt to the estimated gross domestic product.&nbsp;</p>",
+      "updateDate": "2024-05-23T14:16:06Z",
+      "versionCode": "00"
+    },
+    {
+      "actionDate": "2024-02-01",
+      "actionDesc": "Introduced in House",
+      "bill": {
+        "congress": 118,
+        "number": "7204",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "title": "Ensure Funding for Our Environment Act",
+        "type": "HR",
+        "updateDateIncludingText": "2024-05-23T14:00:06Z",
+        "url": "https://api.congress.gov/v3/bill/118/hr/7204?format=json"
+      },
+      "currentChamber": "House",
+      "currentChamberCode": "H",
+      "lastSummaryUpdateDate": "2024-05-13T13:32:20Z",
+      "text": "<html><body bgcolor=\"#FFFFFF\"><p><b>Ensure Funding for Our Environment Act</b></p> <p>This bill makes the Environmental Protection Agency, rather than the U.S. Army Corps of Engineers, responsible for allocating funds to the Susquehanna River Basin Commission, the Delaware River Basin Commission, and the Interstate Commission on the Potomac River Basin.</p></body></html>",
+      "updateDate": "2024-05-23T14:00:06Z",
+      "versionCode": "00"
+    }
+  ]
+}

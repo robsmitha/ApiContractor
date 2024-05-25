@@ -1,0 +1,21 @@
+{
+  "hearings": [
+    {
+      "chamber": "Senate",
+      "citation": "S.Hrg.116-38",
+      "date": "2019-06-05",
+      "jacketNumber": 37106,
+      "number": 38
+    }
+  ],
+  "pagination": {
+    "count": 1
+  },
+  "request": {
+    "congress": "116",
+    "contentType": "application/json",
+    "format": "json",
+    "nominationUrl": "https://api.congress.gov/v3/nomination/116/389?format=json",
+    "number": "389"
+  }
+}

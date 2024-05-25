@@ -1,0 +1,29 @@
+{
+  "pagination": {
+    "count": 132,
+    "next": "https://api.congress.gov/v3/member/H001038/sponsored-legislation?offset=20&limit=20&format=json"
+  },
+  "request": {
+    "bioguideId": "h001038",
+    "contentType": "application/json",
+    "format": "json"
+  },
+  "sponsoredLegislation": [
+    {
+      "congress": 118,
+      "introducedDate": "2023-09-12",
+      "latestAction": {
+        "actionDate": "2024-02-05",
+        "actionTime": "19:08:18",
+        "text": "ASSUMING FIRST SPONSORSHIP - Mr. Davis (IL) asked unanimous consent that he may hereafter be considered as the first sponsor of H.R. 5408, a bill originally introduced by Representative Higgins (NY), for the purpose of adding cosponsors and requesting reprintings pursuant to clause 7 of rule XII. Agreed to without objection."
+      },
+      "number": "5408",
+      "policyArea": {
+        "name": "Social Welfare"
+      },
+      "title": "SSI Savings Penalty Elimination Act",
+      "type": "HR",
+      "url": "https://api.congress.gov/v3/bill/118/hr/5408?format=json"
+    }
+  ]
+}

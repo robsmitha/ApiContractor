@@ -90,6 +90,106 @@ namespace CongressDotGov.Contractor.Utilities
                 return "H001038";
             }
 
+            if (name == "stateCode")
+            {
+                return "MI";
+            }
+
+            if (name == "district")
+            {
+                return "10";
+            }
+
+            if (name == "chamber")
+            {
+                return "house";
+            }
+
+            if (name == "committeeCode")
+            {
+                return "hspw00";
+            }
+
+            if (name == "reportType")
+            {
+                return "hrpt";
+            }
+
+            if (name == "reportNumber")
+            {
+                return "617";
+            }
+
+            if (name == "jacketNumber")
+            {
+                return "48144";
+            }
+
+            if (name == "eventId")
+            {
+                return "115538";
+            }
+
+            if (name == "volumeNumber")
+            {
+                return "166";
+            }
+
+            if (name == "issueNumber")
+            {
+                return "153";
+            }
+
+            if (name == "year")
+            {
+                return "1990";
+            }
+
+            if (name == "month")
+            {
+                return "4";
+            }
+
+            if (name == "day")
+            {
+                return "18";
+            }
+
+            if (name == "communicationType")
+            {
+                return "ec";
+            }
+
+            if (name == "communicationNumber")
+            {
+                return "3324";
+            }
+
+            if (name == "requirementNumber")
+            {
+                return "8070";
+            }
+
+            if (name == "nominationNumber")
+            {
+                return "2467";
+            }
+
+            if (name == "ordinal")
+            {
+                return "1";
+            }
+
+            if (name == "treatyNumber")
+            {
+                return "13";
+            }
+
+            if (name == "treatySuffix")
+            {
+                return "A";
+            }
+
             return "MISSING:" + name;
         }
 

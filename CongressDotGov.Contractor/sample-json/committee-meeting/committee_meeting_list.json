@@ -1,0 +1,152 @@
+{
+  "committeeMeetings": [
+    {
+      "chamber": "House",
+      "congress": 115,
+      "eventId": "105495",
+      "updateDate": "2019-01-17 16:04:03+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/115/house/105495?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 115,
+      "eventId": "105496",
+      "updateDate": "2019-01-17 16:04:06+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/115/house/105496?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 115,
+      "eventId": "105497",
+      "updateDate": "2019-01-17 16:04:10+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/115/house/105497?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 115,
+      "eventId": "105498",
+      "updateDate": "2019-01-17 16:04:16+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/115/house/105498?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 115,
+      "eventId": "105500",
+      "updateDate": "2019-01-17 16:04:17+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/115/house/105500?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 115,
+      "eventId": "105501",
+      "updateDate": "2019-01-17 16:04:18+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/115/house/105501?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 115,
+      "eventId": "105491",
+      "updateDate": "2020-09-14 12:01:10+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/115/house/105491?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 115,
+      "eventId": "105492",
+      "updateDate": "2020-09-14 12:01:12+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/115/house/105492?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 115,
+      "eventId": "105494",
+      "updateDate": "2020-09-14 12:01:16+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/115/house/105494?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 115,
+      "eventId": "105493",
+      "updateDate": "2020-09-14 12:01:12+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/115/house/105493?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 115,
+      "eventId": "105535",
+      "updateDate": "2020-09-14 12:01:58+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/115/house/105535?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 115,
+      "eventId": "105539",
+      "updateDate": "2019-01-17 16:05:05+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/115/house/105539?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 115,
+      "eventId": "105482",
+      "updateDate": "2024-05-17 17:15:10+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/115/house/105482?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 115,
+      "eventId": "105483",
+      "updateDate": "2024-05-17 17:15:12+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/115/house/105483?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 115,
+      "eventId": "105485",
+      "updateDate": "2024-05-17 17:15:20+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/115/house/105485?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 115,
+      "eventId": "105487",
+      "updateDate": "2024-05-17 17:15:46+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/115/house/105487?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 115,
+      "eventId": "105489",
+      "updateDate": "2024-05-17 17:15:48+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/115/house/105489?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 115,
+      "eventId": "105490",
+      "updateDate": "2024-05-17 17:15:48+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/115/house/105490?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 115,
+      "eventId": "105510",
+      "updateDate": "2024-05-17 17:16:28+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/115/house/105510?format=json"
+    },
+    {
+      "chamber": "House",
+      "congress": 115,
+      "eventId": "105526",
+      "updateDate": "2024-05-17 17:16:51+00:00",
+      "url": "https://api.congress.gov/v3/committee-meeting/115/house/105526?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 14787,
+    "next": "https://api.congress.gov/v3/committee-meeting?offset=20&limit=20&format=json"
+  },
+  "request": {
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

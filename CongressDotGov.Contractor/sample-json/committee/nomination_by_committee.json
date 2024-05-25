@@ -1,0 +1,13 @@
+{
+  "nominations": [],
+  "pagination": {
+    "count": 0
+  },
+  "request": {
+    "chamber": "house",
+    "committeeUrl": "https://api.congress.gov/v3/committee/house/hspw00?format=json",
+    "contentType": "application/json",
+    "format": "json",
+    "systemCode": "hspw00"
+  }
+}

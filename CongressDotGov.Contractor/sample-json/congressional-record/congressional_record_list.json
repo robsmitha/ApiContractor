@@ -1,0 +1,73 @@
+{
+  "Results": {
+    "IndexStart": 1,
+    "Issues": [
+      {
+        "Congress": "118",
+        "Id": 27402,
+        "Issue": "90",
+        "Links": {
+          "Digest": {
+            "Label": "Daily Digest",
+            "Ordinal": 1,
+            "PDF": [
+              {
+                "Part": "1",
+                "Url": "https://www.congress.gov/118/crec/2024/05/23/170/90/CREC-2024-05-23-dailydigest.pdf"
+              }
+            ]
+          },
+          "FullRecord": {
+            "Label": "Entire Issue",
+            "Ordinal": 5,
+            "PDF": [
+              {
+                "Part": "1",
+                "Url": "https://www.congress.gov/118/crec/2024/05/23/170/90/CREC-2024-05-23.pdf"
+              }
+            ]
+          },
+          "House": {
+            "Label": "House Section",
+            "Ordinal": 3,
+            "PDF": [
+              {
+                "Part": "1",
+                "Url": "https://www.congress.gov/118/crec/2024/05/23/170/90/CREC-2024-05-23-house.pdf"
+              }
+            ]
+          },
+          "Remarks": {
+            "Label": "Extensions of Remarks Section",
+            "Ordinal": 4,
+            "PDF": [
+              {
+                "Part": "1",
+                "Url": "https://www.congress.gov/118/crec/2024/05/23/170/90/CREC-2024-05-23-extensions.pdf"
+              }
+            ]
+          },
+          "Senate": {
+            "Label": "Senate Section",
+            "Ordinal": 2,
+            "PDF": [
+              {
+                "Part": "1",
+                "Url": "https://www.congress.gov/118/crec/2024/05/23/170/90/CREC-2024-05-23-senate.pdf"
+              }
+            ]
+          }
+        },
+        "PublishDate": "2024-05-23",
+        "Session": "2",
+        "Volume": "170"
+      }
+    ],
+    "SetSize": 20,
+    "TotalCount": 5396
+  },
+  "Status": {
+    "Code": "200",
+    "Message": "success"
+  }
+}

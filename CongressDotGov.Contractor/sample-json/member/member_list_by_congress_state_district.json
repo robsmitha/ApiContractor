@@ -1,0 +1,32 @@
+{
+  "members": [
+    {
+      "bioguideId": "M001136",
+      "depiction": {
+        "attribution": "Image courtesy of the Member",
+        "imageUrl": "https://www.congress.gov/img/member/m001136_200.jpg"
+      },
+      "district": 9,
+      "name": "McClain, Lisa C.",
+      "partyName": "Republican",
+      "state": "Michigan",
+      "terms": {
+        "item": [
+          {
+            "chamber": "House of Representatives",
+            "startYear": 2021
+          }
+        ]
+      },
+      "updateDate": "2024-02-27T13:20:54Z",
+      "url": "https://api.congress.gov/v3/member/M001136?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 1
+  },
+  "request": {
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

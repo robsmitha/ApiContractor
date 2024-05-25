@@ -1,0 +1,28 @@
+{
+  "committees": [
+    {
+      "activities": [
+        {
+          "date": "2022-12-14T18:56:36Z",
+          "name": "Reported by"
+        },
+        {
+          "date": "2022-08-03T21:02:58Z",
+          "name": "Referred to"
+        }
+      ],
+      "chamber": "Senate",
+      "name": "Armed Services Committee",
+      "systemCode": "ssas00",
+      "type": "Standing",
+      "url": "https://api.congress.gov/v3/committee/senate/ssas00?format=json"
+    }
+  ],
+  "request": {
+    "congress": "117",
+    "contentType": "application/json",
+    "format": "json",
+    "nominationUrl": "https://api.congress.gov/v3/nomination/117/2467?format=json",
+    "number": "2467"
+  }
+}

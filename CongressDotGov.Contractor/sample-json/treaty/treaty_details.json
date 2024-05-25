@@ -1,0 +1,58 @@
+{
+  "request": {
+    "congress": "114",
+    "contentType": "application/json",
+    "format": "json"
+  },
+  "treaty": {
+    "actions": {
+      "count": 5,
+      "url": "https://api.congress.gov/v3/treaty/114/13/A/actions?format=json"
+    },
+    "congressConsidered": 115,
+    "congressReceived": 114,
+    "countriesParties": [
+      {
+        "name": "Micronesia, Federated States of"
+      }
+    ],
+    "inForceDate": null,
+    "indexTerms": [
+      {
+        "name": "Maritime"
+      },
+      {
+        "name": "Micronesia"
+      },
+      {
+        "name": "Pacific"
+      }
+    ],
+    "number": 13,
+    "oldNumber": null,
+    "oldNumberDisplayName": null,
+    "parts": {
+      "count": 2,
+      "urls": [
+        "https://api.congress.gov/v3/treaty/114/13/B?format=json",
+        "https://api.congress.gov/v3/treaty/114/13?format=json"
+      ]
+    },
+    "relatedDocs": [],
+    "resolutionText": "<!DOCTYPE html><html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\"><head><meta name=\"dc:title\" content=\"[115] TreatyRes. 3 for TreatyDoc. 114 - 13A\" /><meta name=\"Content-Type\" content=\"application/rtf\" /><title>[115] TreatyRes. 3 for TreatyDoc. 114 - 13A</title></head><body><p><i>As approved by the Senate: </i></p><p></p><p>\tResolved, (two-thirds of the Senators present concurring therein),</p><p><b>SECTION 1. SENATE ADVICE AND CONSENT SUBJECT TO A DECLARATION.</b></p><p>\tThe Senate advises and consents to the ratification of the Treaty between the Government of the United States of America and the Government of the Republic of Kiribati on the Delimitation of Maritime Boundaries, signed at Majuro on September 6, 2013 (the \"Treaty\") (Treaty Doc 114-13B), subject to the declaration in section 2.</p><p><b>SEC. 2. DECLARATION.</b></p><p>\tThe Senate&rsquo;s advice and consent under section 1 is subject to the following declaration: The Treaty is self-executing.</p><p></p><p></p></body></html>",
+    "suffix": "A",
+    "titles": [
+      {
+        "title": "Treaty between the Government of the United States of America and the Government of the Federated States of Micronesia on the Delimitation of a Maritime Boundary, signed at Koror on August 1, 2014.",
+        "titleType": "Treaty - Formal Title"
+      },
+      {
+        "title": "The Treaty with the Federated States of Micronesia on the Delimitation of a Maritime Boundary",
+        "titleType": "Treaty - Short Title"
+      }
+    ],
+    "topic": "Maritime Boundaries and Claims",
+    "transmittedDate": "2016-12-09T00:00:00Z",
+    "updateDate": "2023-03-07T12:19:20Z"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "pagination": {
+    "count": 783,
+    "next": "https://api.congress.gov/v3/treaty?offset=20&limit=20&format=json"
+  },
+  "request": {
+    "contentType": "application/json",
+    "format": "json"
+  },
+  "treaties": [
+    {
+      "congressConsidered": 114,
+      "congressReceived": 114,
+      "number": 13,
+      "parts": {
+        "count": 2,
+        "urls": [
+          "https://api.congress.gov/v3/treaty/114/13/B?format=json",
+          "https://api.congress.gov/v3/treaty/114/13/A?format=json"
+        ]
+      },
+      "suffix": "",
+      "topic": "Maritime Boundaries and Claims",
+      "transmittedDate": "2016-12-09T00:00:00Z",
+      "updateDate": "2024-03-08T09:49:19Z",
+      "url": "https://api.congress.gov/v3/treaty/114/13?format=json"
+    }
+  ]
+}

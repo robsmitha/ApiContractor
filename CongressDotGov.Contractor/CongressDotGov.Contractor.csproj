@@ -15,16 +15,6 @@
   </ItemGroup>
   
   <ItemGroup>
-    <Content Include="sample-json\**\**">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-  </ItemGroup>
-  
-  <ItemGroup>
-    <None Remove="sample-json\**\**" />
-  </ItemGroup>
-  
-  <ItemGroup>
     <None Update="congressdotgov-swagger-overrides.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

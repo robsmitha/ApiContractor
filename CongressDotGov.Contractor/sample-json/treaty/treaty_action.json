@@ -1,0 +1,115 @@
+{
+  "actions": [
+    {
+      "actionCode": "S05220",
+      "actionDate": "2019-10-22",
+      "committee": null,
+      "text": "Considered by Senate.",
+      "type": "Floor"
+    },
+    {
+      "actionCode": "S05220",
+      "actionDate": "2019-10-21",
+      "committee": null,
+      "text": "Considered by Senate.",
+      "type": "Floor"
+    },
+    {
+      "actionCode": "S05307",
+      "actionDate": "2019-10-17",
+      "committee": null,
+      "text": "By unanimous consent agreement, mandatory quorum required under rule XXII waived.",
+      "type": "Floor"
+    },
+    {
+      "actionCode": "S05291",
+      "actionDate": "2019-10-22",
+      "committee": null,
+      "text": "Resolution of advice and consent to ratification agreed to in Senate by Yea-Nay Vote. 91 - 2. Record Vote Number: 327.",
+      "type": "Floor"
+    },
+    {
+      "actionCode": "S05311",
+      "actionDate": "2019-10-22",
+      "committee": null,
+      "text": "Treaty moved through its parliamentary stages up to and including presentation of the resolution of advice and consent to ratification.",
+      "type": "Floor"
+    },
+    {
+      "actionCode": "S05307",
+      "actionDate": "2019-10-21",
+      "committee": null,
+      "text": "By unanimous consent agreement, debate and vote 10/22/2019.",
+      "type": "Floor"
+    },
+    {
+      "actionCode": "S05240",
+      "actionDate": "2019-10-21",
+      "committee": null,
+      "text": "Cloture invoked in Senate by Yea-Nay Vote. 84 - 2. Record Vote Number: 326.",
+      "type": "Floor"
+    },
+    {
+      "actionCode": "S05307",
+      "actionDate": "2019-10-17",
+      "committee": null,
+      "text": "By unanimous consent agreement, debate 10/21/2019.",
+      "type": "Floor"
+    },
+    {
+      "actionCode": "S05235",
+      "actionDate": "2019-10-17",
+      "committee": null,
+      "text": "Cloture motion presented in Senate.",
+      "type": "Floor"
+    },
+    {
+      "actionCode": "S05205",
+      "actionDate": "2019-10-17",
+      "committee": null,
+      "text": "Motion to proceed to executive session to consideration of treaty agreed to in Senate by Voice Vote.",
+      "type": "Floor"
+    },
+    {
+      "actionCode": "S05153",
+      "actionDate": "2019-09-18",
+      "committee": {
+        "name": "Foreign Relations Committee",
+        "systemCode": "ssfr00",
+        "url": "https://api.congress.gov/v3/committee/senate/ssfr00?format=json"
+      },
+      "text": "Reported by Senator Risch, Committee on Foreign Relations with printed Ex. Rept. 116-5 and a resolution of advice and consent to ratification with seven declarations and one condition. Executive Calendar No. 5.",
+      "type": "Committee"
+    },
+    {
+      "actionCode": "S05885",
+      "actionDate": "2019-07-25",
+      "committee": {
+        "name": "Foreign Relations Committee",
+        "systemCode": "ssfr00",
+        "url": "https://api.congress.gov/v3/committee/senate/ssfr00?format=json"
+      },
+      "text": "Committee on Foreign Relations. Ordered to be reported without amendment favorably.",
+      "type": "Committee"
+    },
+    {
+      "actionCode": "S05120",
+      "actionDate": "2019-04-29",
+      "committee": {
+        "name": "Foreign Relations Committee",
+        "systemCode": "ssfr00",
+        "url": "https://api.congress.gov/v3/committee/senate/ssfr00?format=json"
+      },
+      "text": "Received in the Senate and referred to the Committee on Foreign Relations by unanimous consent removing the injunction of secrecy.",
+      "type": "IntroReferral"
+    }
+  ],
+  "pagination": {
+    "count": 13
+  },
+  "request": {
+    "congress": "116",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

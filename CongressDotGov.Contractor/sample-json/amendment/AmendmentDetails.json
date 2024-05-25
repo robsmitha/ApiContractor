@@ -1,0 +1,49 @@
+{
+  "amendment": {
+    "actions": {
+      "count": 6,
+      "url": "https://api.congress.gov/v3/amendment/118/hamdt/878/actions?format=json"
+    },
+    "amendedBill": {
+      "congress": 118,
+      "number": "7888",
+      "originChamber": "House",
+      "originChamberCode": "H",
+      "title": "Reforming Intelligence and Securing America Act",
+      "type": "HR",
+      "updateDateIncludingText": "2024-05-24T13:33:27Z",
+      "url": "https://api.congress.gov/v3/bill/118/hr/7888?format=json"
+    },
+    "chamber": "House of Representatives",
+    "congress": 118,
+    "description": "An amendment numbered 3 printed in House Report 118-456 to prohibit the resumption of \"abouts\" collection under section 702.",
+    "latestAction": {
+      "actionDate": "2024-04-12",
+      "actionTime": "11:22:29",
+      "text": "On agreeing to the Cline amendment (A003) Agreed to by voice vote."
+    },
+    "number": "878",
+    "sponsors": [
+      {
+        "bioguideId": "C001118",
+        "district": 6,
+        "firstName": "Ben",
+        "fullName": "Rep. Cline, Ben [R-VA-6]",
+        "lastName": "Cline",
+        "party": "R",
+        "state": "VA",
+        "url": "https://api.congress.gov/v3/member/C001118?format=json"
+      }
+    ],
+    "submittedDate": "2024-04-12T04:00:00Z",
+    "type": "HAMDT",
+    "updateDate": "2024-04-15T13:47:34Z"
+  },
+  "request": {
+    "amendmentNumber": "878",
+    "amendmentType": "hamdt",
+    "congress": "118",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

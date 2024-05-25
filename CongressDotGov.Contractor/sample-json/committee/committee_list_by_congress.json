@@ -1,0 +1,76 @@
+{
+  "committees": [
+    {
+      "chamber": "House",
+      "committeeTypeCode": "Select",
+      "name": "Intelligence (Permanent Select) Committee",
+      "parent": {
+        "name": "Intelligence (Permanent Select) Committee",
+        "systemCode": "hlig00",
+        "url": "https://api.congress.gov/v3/committee/house/hlig00?format=json"
+      },
+      "subcommittees": [
+        {
+          "name": "Emerging Threats Subcommittee",
+          "systemCode": "hlig03",
+          "url": "https://api.congress.gov/v3/committee/house/hlig03?format=json"
+        },
+        {
+          "name": "Counterterrorism, Counterintelligence, and Counterproliferation Subcommittee",
+          "systemCode": "hlig05",
+          "url": "https://api.congress.gov/v3/committee/house/hlig05?format=json"
+        },
+        {
+          "name": "Terrorism and Homeland Security Subcommittee",
+          "systemCode": "hlig07",
+          "url": "https://api.congress.gov/v3/committee/house/hlig07?format=json"
+        },
+        {
+          "name": "Intelligence Modernization and Readiness Subcommittee",
+          "systemCode": "hlig08",
+          "url": "https://api.congress.gov/v3/committee/house/hlig08?format=json"
+        },
+        {
+          "name": "National Intelligence Enterprise Subcommittee",
+          "systemCode": "hlig06",
+          "url": "https://api.congress.gov/v3/committee/house/hlig06?format=json"
+        },
+        {
+          "name": "Oversight and Investigations Subcommittee",
+          "systemCode": "hlig09",
+          "url": "https://api.congress.gov/v3/committee/house/hlig09?format=json"
+        },
+        {
+          "name": "Strategic Technologies and Advanced Research Subcommittee",
+          "systemCode": "hlig10",
+          "url": "https://api.congress.gov/v3/committee/house/hlig10?format=json"
+        },
+        {
+          "name": "Central Intelligence Agency Subcommittee",
+          "systemCode": "hlig01",
+          "url": "https://api.congress.gov/v3/committee/house/hlig01?format=json"
+        },
+        {
+          "name": "National Security Agency and Cyber Subcommittee",
+          "systemCode": "hlig02",
+          "url": "https://api.congress.gov/v3/committee/house/hlig02?format=json"
+        },
+        {
+          "name": "Subcommittee on Defense Intelligence and Overhead Architecture",
+          "systemCode": "hlig04",
+          "url": "https://api.congress.gov/v3/committee/house/hlig04?format=json"
+        }
+      ],
+      "systemCode": "hlig00",
+      "url": "https://api.congress.gov/v3/committee/house/hlig00?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 234,
+    "next": "https://api.congress.gov/v3/committee/117?offset=20&limit=20&format=json"
+  },
+  "request": {
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

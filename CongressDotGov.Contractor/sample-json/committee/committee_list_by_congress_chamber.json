@@ -1,0 +1,127 @@
+{
+  "committees": [
+    {
+      "chamber": "House",
+      "committeeTypeCode": "Standing",
+      "name": "Appropriations Committee",
+      "parent": {
+        "name": "Agriculture Committee",
+        "systemCode": "hsag00",
+        "url": "https://api.congress.gov/v3/committee/house/hsag00?format=json"
+      },
+      "subcommittees": [
+        {
+          "name": "Defense Subcommittee",
+          "systemCode": "hsap02",
+          "url": "https://api.congress.gov/v3/committee/house/hsap02?format=json"
+        },
+        {
+          "name": "Interior, Environment, and Related Agencies Subcommittee",
+          "systemCode": "hsap06",
+          "url": "https://api.congress.gov/v3/committee/house/hsap06?format=json"
+        },
+        {
+          "name": "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Subcommittee",
+          "systemCode": "hsap01",
+          "url": "https://api.congress.gov/v3/committee/house/hsap01?format=json"
+        },
+        {
+          "name": "District of Columbia Subcommittee",
+          "systemCode": "hsap03",
+          "url": "https://api.congress.gov/v3/committee/house/hsap03?format=json"
+        },
+        {
+          "name": "State, Foreign Operations, and Related Programs Subcommittee",
+          "systemCode": "hsap04",
+          "url": "https://api.congress.gov/v3/committee/house/hsap04?format=json"
+        },
+        {
+          "name": "VA, HUD, and Independent Agencies Subcommittee",
+          "systemCode": "hsap05",
+          "url": "https://api.congress.gov/v3/committee/house/hsap05?format=json"
+        },
+        {
+          "name": "Departments of Labor, Health and Human Services, Education, and Related Agencies Subcommittee",
+          "systemCode": "hsap07",
+          "url": "https://api.congress.gov/v3/committee/house/hsap07?format=json"
+        },
+        {
+          "name": "Legislative Subcommittee",
+          "systemCode": "hsap08",
+          "url": "https://api.congress.gov/v3/committee/house/hsap08?format=json"
+        },
+        {
+          "name": "Military Construction Subcommittee",
+          "systemCode": "hsap09",
+          "url": "https://api.congress.gov/v3/committee/house/hsap09?format=json"
+        },
+        {
+          "name": "Commerce, Justice, State, and the Judiciary Subcommittee",
+          "systemCode": "hsap11",
+          "url": "https://api.congress.gov/v3/committee/house/hsap11?format=json"
+        },
+        {
+          "name": "Transportation Subcommittee",
+          "systemCode": "hsap12",
+          "url": "https://api.congress.gov/v3/committee/house/hsap12?format=json"
+        },
+        {
+          "name": "Treasury, Postal Service, and General Government Subcommittee",
+          "systemCode": "hsap13",
+          "url": "https://api.congress.gov/v3/committee/house/hsap13?format=json"
+        },
+        {
+          "name": "Department of Homeland Security Subcommittee",
+          "systemCode": "hsap15",
+          "url": "https://api.congress.gov/v3/committee/house/hsap15?format=json"
+        },
+        {
+          "name": "Military Construction, Veterans Affairs, and Related Agencies Subcommittee",
+          "systemCode": "hsap18",
+          "url": "https://api.congress.gov/v3/committee/house/hsap18?format=json"
+        },
+        {
+          "name": "Departments of Transportation, and Housing and Urban Development, and Related Agencies Subcommittee",
+          "systemCode": "hsap20",
+          "url": "https://api.congress.gov/v3/committee/house/hsap20?format=json"
+        },
+        {
+          "name": "Financial Services and General Government Subcommittee",
+          "systemCode": "hsap23",
+          "url": "https://api.congress.gov/v3/committee/house/hsap23?format=json"
+        },
+        {
+          "name": "Legislative Branch Subcommittee",
+          "systemCode": "hsap24",
+          "url": "https://api.congress.gov/v3/committee/house/hsap24?format=json"
+        },
+        {
+          "name": "Energy and Water Development, and Related Agencies Subcommittee",
+          "systemCode": "hsap10",
+          "url": "https://api.congress.gov/v3/committee/house/hsap10?format=json"
+        },
+        {
+          "name": "Transportation, Treasury and Independent Agencies Subcommittee",
+          "systemCode": "hsap14",
+          "url": "https://api.congress.gov/v3/committee/house/hsap14?format=json"
+        },
+        {
+          "name": "Commerce, Justice, Science, and Related Agencies Subcommittee",
+          "systemCode": "hsap19",
+          "url": "https://api.congress.gov/v3/committee/house/hsap19?format=json"
+        }
+      ],
+      "systemCode": "hsap00",
+      "url": "https://api.congress.gov/v3/committee/house/hsap00?format=json"
+    }
+  ],
+  "pagination": {
+    "count": 132,
+    "next": "https://api.congress.gov/v3/committee/117/house?offset=20&limit=20&format=json"
+  },
+  "request": {
+    "chamber": "house",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

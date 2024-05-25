@@ -1,0 +1,36 @@
+{
+  "actions": [
+    {
+      "actionCode": "17000",
+      "actionDate": "2022-03-08",
+      "recordedVotes": [
+        {
+          "chamber": "Senate",
+          "congress": 117,
+          "date": "2022-03-08T23:23:13Z",
+          "rollNumber": 71,
+          "sessionNumber": 2,
+          "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1172/vote_117_2_00071.xml"
+        }
+      ],
+      "sourceSystem": {
+        "code": 2,
+        "name": "House floor actions"
+      },
+      "text": "Passed Senate without amendment by Yea-Nay Vote. 79 - 19. Record Vote Number: 71.",
+      "type": "Floor"
+    }
+  ],
+  "pagination": {
+    "count": 74,
+    "next": "https://api.congress.gov/v3/bill/117/hr/3076/actions?offset=20&limit=20&format=json"
+  },
+  "request": {
+    "billNumber": "3076",
+    "billType": "hr",
+    "billUrl": "https://api.congress.gov/v3/bill/117/hr/3076?format=json",
+    "congress": "117",
+    "contentType": "application/json",
+    "format": "json"
+  }
+}

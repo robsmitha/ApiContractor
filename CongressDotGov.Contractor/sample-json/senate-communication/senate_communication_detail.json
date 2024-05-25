@@ -1,0 +1,30 @@
+{
+  "request": {
+    "communicationNum": "3324",
+    "congress": "117",
+    "contentType": "application/json",
+    "execCommunicationType": "ec",
+    "format": "json"
+  },
+  "senateCommunication": {
+    "abstract": "A communication from the Special Assistant of the Office of Protected Resources, National Marine Fisheries Service, Department of Commerce, transmitting, pursuant to law, the report of a rule entitled \"List of Fisheries for 2020\" (RIN0648-BI76) received in the Office of the President of the Senate on February 16, 2022; to the Committee on Commerce, Science, and Transportation.",
+    "chamber": "Senate",
+    "committees": [
+      {
+        "name": "Commerce, Science, and Transportation Committee",
+        "referralDate": "2022-03-08",
+        "systemCode": "sscm00",
+        "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+      }
+    ],
+    "communicationType": {
+      "code": "EC",
+      "name": "Executive Communication"
+    },
+    "congress": 117,
+    "congressionalRecordDate": "2022-03-08",
+    "number": 3324,
+    "sessionNumber": 2,
+    "updateDate": "2022-03-09T08:02:30Z"
+  }
+}
