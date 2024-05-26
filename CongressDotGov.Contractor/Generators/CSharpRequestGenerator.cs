@@ -8,7 +8,7 @@ using System.Text;
 
 namespace CongressDotGov.Contractor.Generators
 {
-    public static class RequestGenerator
+    public static class CSharpRequestGenerator
     {
         public static async Task RunAsync(string bin, string targetNamespace)
         {

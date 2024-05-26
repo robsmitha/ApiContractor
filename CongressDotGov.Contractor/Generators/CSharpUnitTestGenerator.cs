@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace CongressDotGov.Contractor.Generators
 {
-    public static class UnitTestGenerator
+    public static class CSharpUnitTestGenerator
     {
         public static async Task RunAsync(string bin)
         {

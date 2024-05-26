@@ -2,10 +2,16 @@
 using Humanizer;
 using NJsonSchema;
 using NJsonSchema.CodeGeneration.CSharp;
+using NJsonSchema.CodeGeneration.TypeScript;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace CongressDotGov.Contractor.Generators
 {
-    public static class ResponseGenerator
+    public static class TypeScriptResponseGenerator
     {
         public static async Task RunAsync(string bin, string targetNamespace, bool useGeneratedSampleJson = true)
         {
@@ -18,7 +24,7 @@ namespace CongressDotGov.Contractor.Generators
                 }
 
                 var parentNamespace = PascalCasePropertyNameGenerator.ConvertToPascalCase(directory).Pluralize();
-                var generatedFilePath = Path.Combine(bin, "___generated___", "responses", parentNamespace);
+                var generatedFilePath = Path.Combine(bin, "___generated___", "typescript", "responses", parentNamespace);
                 if (!Directory.Exists(generatedFilePath))
                 {
                     Directory.CreateDirectory(generatedFilePath);
@@ -32,19 +38,14 @@ namespace CongressDotGov.Contractor.Generators
                     var uniqueNamespace = PascalCasePropertyNameGenerator.ConvertToPascalCase(name);
 
                     var jsonSchema = JsonSchema.FromSampleJson(content);
-                    var generator = new CSharpGenerator(jsonSchema, new CSharpGeneratorSettings
-                    {
-                        Namespace = $"CapitolSharp.Congress.{parentNamespace}.{uniqueNamespace}",
-                        RequiredPropertiesMustBeDefined = true,
-                        GenerateOptionalPropertiesAsNullable = true,
-                        PropertyNameGenerator = new PascalCasePropertyNameGenerator()
-                    });
+                    var generator = new TypeScriptGenerator(jsonSchema);
                     var responseName = $"{uniqueNamespace}Response";
                     var cSharpCode = generator.GenerateFile(responseName);
 
-                    await File.WriteAllTextAsync(Path.Combine(generatedFilePath, $"{responseName}.g.cs"), cSharpCode);
+                    await File.WriteAllTextAsync(Path.Combine(generatedFilePath, $"{responseName}.g.ts"), cSharpCode);
                 }
             }
+
         }
     }
 }
