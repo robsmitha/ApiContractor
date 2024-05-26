@@ -9,9 +9,9 @@ using System.Threading.Tasks;
 
 namespace CongressDotGov.Contractor.Generators
 {
-    public class UnitTestGenerator
+    public static class UnitTestGenerator
     {
-        public async Task RunAsync(string bin, string targetNamespace)
+        public static async Task RunAsync(string bin)
         {
             var apiMethods = await SwaggerJsonReader.ReadAsync(bin);
             var inlineData = new List<string>();

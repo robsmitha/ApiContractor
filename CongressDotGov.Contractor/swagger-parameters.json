@@ -1,4 +1,30 @@
 {
+  "_defaults": {
+    "congress": "117",
+    "billType": "hr",
+    "billNumber": "3076",
+    "bioguideId": "H001038",
+    "stateCode": "MI",
+    "district": "10",
+    "chamber": "house",
+    "committeeCode": "hspw00",
+    "reportType": "hrpt",
+    "reportNumber": "617",
+    "jacketNumber": "48144",
+    "eventId": "115538",
+    "volumeNumber": "166",
+    "issueNumber": "153",
+    "year": "1990",
+    "month": "4",
+    "day": "18",
+    "communicationType": "ec",
+    "communicationNumber": "3324",
+    "requirementNumber": "8070",
+    "nominationNumber": "2467",
+    "ordinal": "1",
+    "treatyNumber": "13",
+    "treatySuffix": "A"
+  },
   "Amendmentcongress": {
     "operationId": "AmendmentListByCongress",
     "congress": "117"

@@ -15,12 +15,18 @@
   </ItemGroup>
   
   <ItemGroup>
-    <None Update="congressdotgov-swagger-overrides.json">
+    <None Update="swagger-parameters.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="congressdotgov-swagger.json">
+    <None Update="swagger.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+  </ItemGroup>
+  
+  <ItemGroup>
+    <Content Include="sample-json\**">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
 
 </Project>

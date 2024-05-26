@@ -9,25 +9,26 @@ Console.WriteLine($"Starting Api Contractor [TargetNamespace: {targetNamespace}]
 if (Environment.GetEnvironmentVariable("GenerateRequestModels") == "true")
 {
     Console.WriteLine($"Generating Api request models [TargetNamespace: {targetNamespace}].");
-    await new RequestGenerator().RunAsync(bin, targetNamespace);
+    await RequestGenerator.RunAsync(bin, targetNamespace);
 }
 
 if (Environment.GetEnvironmentVariable("GatherSampleJson") == "true")
 {
     Console.WriteLine($"Gathering sample json [TargetNamespace: {targetNamespace}].");
-    await new SampleJsonGenerator().RunAsync(bin, apiKey, targetNamespace);
+    await SampleJsonGenerator.RunAsync(bin, apiKey, targetNamespace);
 }
 
 if (Environment.GetEnvironmentVariable("GenerateResponseDtos") == "true")
 {
-    Console.WriteLine($"Generating Api response DTOs from sample json [TargetNamespace: {targetNamespace}]");
-    await new ResponseGenerator().RunAsync(bin, targetNamespace);
+    _ = bool.TryParse(Environment.GetEnvironmentVariable("UseGeneratedJson"), out var useGeneratedJson);
+    Console.WriteLine($"Generating Api response DTOs from sample json [TargetNamespace: {targetNamespace}, UseGeneratedJson: {useGeneratedJson}]");
+    await ResponseGenerator.RunAsync(bin, targetNamespace, useGeneratedJson);
 }
 
 if (Environment.GetEnvironmentVariable("GenerateTests") == "true")
 {
     Console.WriteLine($"Generating Api request tests [TargetNamespace: {targetNamespace}].");
-    await new UnitTestGenerator().RunAsync(bin, targetNamespace);
+    await UnitTestGenerator.RunAsync(bin);
 }
 
 Console.WriteLine("Done");

@@ -5,11 +5,11 @@ using NJsonSchema.CodeGeneration.CSharp;
 
 namespace CongressDotGov.Contractor.Generators
 {
-    public class ResponseGenerator
+    public static class ResponseGenerator
     {
-        public async Task RunAsync(string bin, string targetNamespace)
+        public static async Task RunAsync(string bin, string targetNamespace, bool useGeneratedSampleJson = true)
         {
-            foreach (var directoryPath in Directory.GetDirectories(Path.Combine(bin, "___generated___", "sample-json")))
+            foreach (var directoryPath in Directory.GetDirectories(useGeneratedSampleJson ? Path.Combine(bin, "___generated___", "sample-json") : Path.Combine(bin, "sample-json")))
             {
                 var directory = Path.GetFileName(directoryPath);
                 if (targetNamespace != "*" && !directory.Equals(targetNamespace, StringComparison.InvariantCultureIgnoreCase))

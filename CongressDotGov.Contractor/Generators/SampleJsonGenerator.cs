@@ -9,9 +9,9 @@ using System.Xml.Linq;
 
 namespace CongressDotGov.Contractor.Generators
 {
-    public class SampleJsonGenerator
+    public static class SampleJsonGenerator
     {
-        public async Task RunAsync(string bin, string apiKey, string targetNamespace)
+        public static async Task RunAsync(string bin, string apiKey, string targetNamespace)
         {
             if (string.IsNullOrEmpty(apiKey))
             {
