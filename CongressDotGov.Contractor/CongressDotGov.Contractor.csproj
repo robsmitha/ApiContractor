@@ -16,6 +16,9 @@
   </ItemGroup>
   
   <ItemGroup>
+    <None Update="manifest.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="swagger-parameters.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

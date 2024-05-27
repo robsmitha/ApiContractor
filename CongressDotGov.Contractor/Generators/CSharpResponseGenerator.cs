@@ -1,4 +1,5 @@
 ﻿using CongressDotGov.Contractor.Customization;
+using CongressDotGov.Contractor.Utilities;
 using Humanizer;
 using NJsonSchema;
 using NJsonSchema.CodeGeneration.CSharp;
@@ -9,6 +10,8 @@ namespace CongressDotGov.Contractor.Generators
     {
         public static async Task RunAsync(string bin, string targetNamespace, bool useGeneratedSampleJson = true)
         {
+            var manifest = await ManifestJsonReader.ReadAsync(bin);
+            var cSharpResponseDto = manifest.CSharpResponseDto;
             foreach (var directoryPath in Directory.GetDirectories(useGeneratedSampleJson ? Path.Combine(bin, "___generated___", "sample-json") : Path.Combine(bin, "sample-json")))
             {
                 var directory = Path.GetFileName(directoryPath);
@@ -34,7 +37,7 @@ namespace CongressDotGov.Contractor.Generators
                     var jsonSchema = JsonSchema.FromSampleJson(content);
                     var generator = new CSharpGenerator(jsonSchema, new CSharpGeneratorSettings
                     {
-                        Namespace = $"CapitolSharp.Congress.{parentNamespace}.{uniqueNamespace}",
+                        Namespace = $"{cSharpResponseDto.RootNamespace}.{parentNamespace}.{uniqueNamespace}",
                         RequiredPropertiesMustBeDefined = true,
                         GenerateOptionalPropertiesAsNullable = true,
                         PropertyNameGenerator = new PascalCasePropertyNameGenerator()

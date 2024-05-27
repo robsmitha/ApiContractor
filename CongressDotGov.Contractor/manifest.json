@@ -1,0 +1,65 @@
+{
+  "cSharpRequestModel": {
+    "rootNamespace": "CapitolSharp.Congress",
+    "usingNamespaces": [
+      "CapitolSharp.Congress.Enums",
+      "CapitolSharp.Congress.Models"
+    ],
+    "parameterTypes": [
+      {
+        "name": "billType",
+        "type": "BillType"
+      },
+      {
+        "name": "chamber",
+        "type": "Chamber"
+      },
+      {
+        "name": "amendmentType",
+        "type": "AmendmentType"
+      },
+      {
+        "name": "communicationType",
+        "type": "CommunicationType"
+      },
+      {
+        "name": "reportType",
+        "type": "ReportType"
+      },
+      {
+        "name": "stateCode",
+        "type": "StateCode"
+      }
+    ],
+    "apiEndpointClass": "CongressApiEndpoint",
+    "classSummary": "Generated using ApiContractor",
+    "requestBaseClass": [
+      {
+        "parameters": [],
+        "class": "JsonFormatApiRequest"
+      },
+      {
+        "parameters": [ "sort" ],
+        "class": "SortableApiRequest"
+      },
+      {
+        "parameters": [ "fromDateTime", "toDateTime" ],
+        "class": "DateRangeApiRequest"
+      },
+      {
+        "parameters": [ "offset", "limit" ],
+        "class": "PagedApiRequest"
+      }
+    ]
+  },
+  "cSharpResponseDto": {
+    "rootNamespace": "CapitolSharp.Congress"
+  },
+  "typeScriptResponseDto": {
+    "ignoreEslintRules": [
+      "eslint-disable prefer-const",
+      "eslint-disable no-var",
+      "eslint-disable no-prototype-builtins"
+    ]
+  }
+}

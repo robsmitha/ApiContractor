@@ -36,7 +36,6 @@ namespace CongressDotGov.Contractor.Generators
             sb.AppendLine("//     Generated using ApiContractor");
             sb.AppendLine("// </auto-generated>");
             sb.AppendLine("//----------------------");
-            sb.AppendLine("using System;");
             sb.AppendLine("using Moq;");
             sb.AppendLine("using CapitolSharp.Congress.Tests.Fixtures;");
             foreach (var @namespace in namespaces)
