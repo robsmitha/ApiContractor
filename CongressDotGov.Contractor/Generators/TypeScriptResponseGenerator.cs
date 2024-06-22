@@ -52,7 +52,7 @@ namespace CongressDotGov.Contractor.Generators
                     }
                     typescriptCode.AppendLine();
                     typescriptCode.AppendLine(generator.GenerateFile(responseName));
-                    await File.WriteAllTextAsync(Path.Combine(generatedFilePath, $"{responseName}.g.ts"), typescriptCode.ToString());
+                    await File.WriteAllTextAsync(Path.Combine(generatedFilePath, $"{responseName}.types.d.ts"), typescriptCode.ToString());
                 }
             }
 
